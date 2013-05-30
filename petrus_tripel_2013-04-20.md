@@ -50,3 +50,4 @@ After 90 min., vorloft a few times, drain out into pot, and sparge a bit.
 12. Took gravity reading right after pitching yeast. It was at 1.03, and was supposed to be at 1.074. So I boiled about 10 oz DME (all I had) + 11 oz sugar (all I had) in water, let it cool to 70 deg F, then mixed it in to the primary fermenter.
 12. Primary fermentation started on 2013-04-28, ended 2013-05-XX
 13. Secondary fermentation started on 2013-05-XX, ended on 2013-05-XX
+14. Final gravity reading before bottling was about 1.005, not very high alcohol that is.
