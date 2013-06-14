@@ -3,9 +3,7 @@ layout : layout_pubs
 title: index
 ---
 
-<h1> Beer....yum </h1> 
-
-
+<!-- 
 <h2>Posts</h2>
 <table class="table table-striped">
   <tbody>
@@ -19,3 +17,19 @@ title: index
 	{% endfor %}			
   </tbody>
 </table> 
+ -->
+
+{% for post in site.posts %}
+  <!-- <div class="span1">
+    <i>{{ post.date | date: "%B %e, %Y" }}</i>
+  </div> -->
+  
+  <h3>{{ post.title }}</h3>
+  <i>{{ post.author }}</i>  <i class="pull-right">{{ post.date | date: "%B %e, %Y" }}</i><br>
+
+  {{ post.content | strip_html | truncatewords:50}} <br> 
+
+  <a href="{{ site.dir }}{{ post.url }}" class="badge badge-info">Read more...{{ post.content | number_of_words }} words</a>
+  
+  <hr class="gray-line">
+{% endfor %}
