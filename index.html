@@ -14,7 +14,7 @@ title: index
   <!-- {{ post.content | strip_html | truncatewords:10}} <i class="pull-right">{{ post.date | date: "%B %e, %Y" }}</i><br> -->
 
 <!-- http://schamberlain.github.com/beer_recipes -->
-  <a href="{{ post.url }}" class="badge badge-warning">c'mon its only...{{ post.content | number_of_words }} words</a><i class="pull-right">{{ post.date | date: "%B %e, %Y" }}</i><br> 
+  <a href="http://schamberlain.github.com/beer_recipes{{ post.url }}" class="badge badge-warning">c'mon its only...{{ post.content | number_of_words }} words</a><i class="pull-right">{{ post.date | date: "%B %e, %Y" }}</i><br> 
   
   <hr class="gray-line">
 {% endfor %}
