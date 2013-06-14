@@ -29,7 +29,7 @@ title: index
 
   {{ post.content | strip_html | truncatewords:50}} <br> 
 
-  <a href="{{ site.dir }}{{ post.url }}" class="badge badge-info">Read more...{{ post.content | number_of_words }} words</a>
+  <a href="http://schamberlain.github.com/beer_recipes{{ post.url }}" class="badge badge-info">Read more...{{ post.content | number_of_words }} words</a>
   
   <hr class="gray-line">
 {% endfor %}
