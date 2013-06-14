@@ -225,7 +225,8 @@ textarea {
 
 body {
   margin: 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+  font-family: 'Merienda', cursive;
   font-size: 14px;
   line-height: 20px;
   color: #555555;
@@ -233,7 +234,7 @@ body {
 }
 
 a {
-  color: rgb(15, 88, 217);
+  color: #DF9D39;
   text-decoration: none;
 }
 
