@@ -1,5 +1,5 @@
 name: beerme
-url: http://schamberlain.github.io/beer_recipes/
+url: http://schamberlain.github.io/
 markdown: rdiscount
 pygments: true
 permalink: beer_recipes/:year/:month/:day/:title/
