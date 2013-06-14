@@ -11,6 +11,8 @@
     <link href="http://schamberlain.github.io/beer_recipes/assets/FontAwesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="http://schamberlain.github.io/beer_recipes/assets/css/docs.css" rel="stylesheet">
     <link href="http://schamberlain.github.io/beer_recipes/assets/js/google-code-prettify/prettify.css" rel="stylesheet">	
+    <!-- <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet"> -->
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.0/css/font-awesome.css" rel="stylesheet">
 	<link rel="shortcut icon" href="/favicon.ico">    
   </head>
   <body data-spy="scroll" data-target=".subnav" data-offset="50">
@@ -27,22 +29,53 @@
 			<br/><small>Tags: {% for tag in page.tags %} <a href="/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"><u>{{ tag }}</u></a>  {% if forloop.last != true %} {% endif %} {% endfor %} </small></h4>
 		</div>		
 		<div class="span9 column">
-			<p class="pull-right">{% if page.previous.url %} <a href="http://schamberlain.github.com/beer_recipes{{page.previous.url}}" title="Previous Post: {{page.previous.title}}"><i class="icon-circle-arrow-left icon-2x"></i></a> 	{% endif %}   {% if page.next.url %} 	<a href="http://schamberlain.github.com/beer_recipes{{page.next.url}}" title="Next Post: {{page.next.title}}"><i class="icon-circle-arrow-right icon-2x"></i></a> 	{% endif %} </p> 
+			<p class="pull-left">{% if page.previous.url %} <a href="http://schamberlain.github.com/beer_recipes{{page.previous.url}}" title="Previous Post: {{page.previous.title}}"><i class="icon-circle-arrow-left icon-2x"></i></a> 	{% endif %}   {% if page.next.url %} 	<a href="http://schamberlain.github.com/beer_recipes{{page.next.url}}" title="Next Post: {{page.next.title}}"><i class="icon-circle-arrow-right icon-2x"></i></a> 	{% endif %} </p> 
 		</div>
 	</div>
-
+<!-- 
 	<div class="row">
 		<div class="span8 column">
 			<hr>
 		</div>
-	</div>
-
-
-	<div class="span8">
+	</div> -->
+	
+	<div class="span3">
+		<h3><span class="icon-stack">
+		  	<i class="icon-circle icon-stack-base"></i>
+			<i class="icon-calendar icon-dark"></i>
+		</span>
+		<small>made on: </small>{{ page.datemadeon }}</h3>
+		<h3><span class="icon-stack">
+		  	<i class="icon-circle icon-stack-base"></i>
+			<i class="icon-calendar icon-dark icon-rotate-180"></i>
+		</span>
+		<small>2<sup>o</sup> fermentation on: </small>{{ page.datesecondferm }}</h3>
+		<h3><span class="icon-stack">
+		  	<i class="icon-circle icon-stack-base"></i>
+			<i class="icon-calendar icon-dark icon-rotate-270"></i>
+		</span>
+		<small>bottled on: </small>{{ page.datebottled }}</h3>
+	    <h3><span class="icon-stack">
+		  	<i class="icon-circle icon-stack-base"></i>
+			<i class="icon-beaker icon-light"></i>
+		</span>
+		<small>original gravity: </small>{{ page.gravity_one }}</h3>
+		<h3><span class="icon-stack">
+		  	<i class="icon-circle icon-stack-base"></i>
+			<i class="icon-beaker icon-dark"></i>
+		</span>
+		<small>final gravity: </small>{{ page.gravity_two }}</h3>
+		<h3><span class="icon-stack">
+		  	<i class="icon-circle icon-stack-base"></i>
+			<i class="icon-beer icon-dark"></i>
+		</span>
+		<small>alcohol % est.: </small>{{ page.gravity_one | minus: page.gravity_two | times: 131.25 }}</h3>
+		<!-- | tostring | truncate:4  -->
+    </div>
+	
+	<div class="span6">
 	    {{ content }}
     </div>
 
     {% include footer_nodisqus.html %}
     {% include javascript.html %}
-<!-- </div> -->
-    

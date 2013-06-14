@@ -4,13 +4,18 @@ layout: post
 title: Brooklyn Pennant Ale pale ale
 date: 2013-06-13
 author: Scott Chamberlain
+datemadeon: 2013-05-29
+gravity_one: 1.055
+gravity_two: 1.010
+datesecondferm: 2013-06-05
+datebottled: 2013-06-12
 tags: 
 - ale
 - pale ale
 - clone
 ---
 
-This is a clone of Dogfish Head's 60 minute IPA from the book [CloneBrews: Homebrew Recipes for 150 Commercial Beers][book]. 
+This is a clone of Brooklyn Pennant Ale pale ale from the book [CloneBrews: Homebrew Recipes for 150 Commercial Beers][book]. 
 
 Ingredients:
 
@@ -50,13 +55,13 @@ Steps:
 10. Transfer cooled down wort to primary fermenter
 11. Put in yeast when temperature is right (Wyeast 1968 London ESB Ale yeast, pitch yeast at 68-72 degrees F)
 
-Dates:
+<!-- Dates:
 
 + Made and put into primary fermenter on 2013-05-29
 	+ initial gravity 1.055 (matched the target, woohoo!)
 	+ fermented at ~70 deg F, ended 2013-06-05
 + Moved to secondary fermentation on 2013-06-05, ended 2013-06-12
 	+ Final gravity reading before bottling was 1.010
-+ Bottled on 2013-06-12 in mostly grolsch style bottles
++ Bottled on 2013-06-12 in mostly grolsch style bottles -->
 
 [book]: http://www.amazon.com/CloneBrews-Homebrew-Recipes-Commercial-Beers/dp/1580170773

@@ -233,13 +233,13 @@ body {
 }
 
 a {
-  color: #d9230f;
+  color: #DF9D39;
   text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: #d9230f;
+  color: #DF9D39;
   text-decoration: underline;
 }
 
