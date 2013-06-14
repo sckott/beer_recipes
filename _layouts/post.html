@@ -1,9 +1,47 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="http://schamberlain.github.io/beer_recipes/assets/css/bootstrap.css" rel="stylesheet">
+    <link href="http://schamberlain.github.io/beer_recipes/assets/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="http://schamberlain.github.io/beer_recipes/assets/FontAwesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="http://schamberlain.github.io/beer_recipes/assets/css/docs.css" rel="stylesheet">
+    <link href="http://schamberlain.github.io/beer_recipes/assets/js/google-code-prettify/prettify.css" rel="stylesheet">	
+	<link rel="shortcut icon" href="/favicon.ico">    
+  </head>
+  <body data-spy="scroll" data-target=".subnav" data-offset="50">
+	
+	{% include navigation.html %}  
 
-<div class="content">    
-	{% include post_header.html %}
-    {{ content }}		
-</div>
+	<div class="container" style="width:1000px">	
+		<div class="marketing">
+
+	<div class="row">
+		<p><h1>{{ page.title }}</h1></p>	
+		<div class="span3 column">
+			<h4><strong>{{ page.date | date: "%B %e, %Y" }} <small>. {{ page.category }} .</small></strong>
+			<br/><small>Tags: {% for tag in page.tags %} <a href="/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"><u>{{ tag }}</u></a>  {% if forloop.last != true %} {% endif %} {% endfor %} </small></h4>
+		</div>		
+		<div class="span9 column">
+			<p class="pull-right">{% if page.previous.url %} <a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}"><i class="icon-circle-arrow-left icon-2x"></i></a> 	{% endif %}   {% if page.next.url %} 	<a href="{{page.next.url}}" title="Next Post: {{page.next.title}}"><i class="icon-circle-arrow-right icon-2x"></i></a> 	{% endif %} </p> 
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="span8 column">
+			<hr>
+		</div>
+	</div>
+
+
+	<div class="span8">
+	    {{ content }}
+    </div>
+
+    {% include footer_nodisqus.html %}
+<!-- </div> -->
     

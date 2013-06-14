@@ -3,33 +3,18 @@ layout : layout_pubs
 title: index
 ---
 
-<!-- 
-<h2>Posts</h2>
-<table class="table table-striped">
-  <tbody>
-	{% for post in site.posts %}	
-    <tr>
-      <td>
-		  <h3><a href="http://schamberlain.github.com/beer_recipes{{ post.url }}">{{ post.title }}</a></h3>
-		  <p><small>{{ post.date | date: "%B %e, %Y" }} . {% for tag in post.tags %} <a href="http://schamberlain.github.com/beer_recipes/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;">{{ tag }}</a>  {% if forloop.last != true %} {% endif %} {% endfor %}.</small></p>
-	  </td>
-    </tr>
-	{% endfor %}			
-  </tbody>
-</table> 
- -->
-
 {% for post in site.posts %}
   <!-- <div class="span1">
     <i>{{ post.date | date: "%B %e, %Y" }}</i>
   </div> -->
   
   <h3>{{ post.title }}</h3>
-  <i>{{ post.author }}</i>  <i class="pull-right">{{ post.date | date: "%B %e, %Y" }}</i><br>
+  <!-- <i>{{ post.author }}</i>   -->
 
-  {{ post.content | strip_html | truncatewords:50}} <br> 
+  <!-- {{ post.content | strip_html | truncatewords:10}} <i class="pull-right">{{ post.date | date: "%B %e, %Y" }}</i><br> -->
 
-  <a href="http://schamberlain.github.com/beer_recipes{{ post.url }}" class="badge badge-info">Read more...{{ post.content | number_of_words }} words</a>
+<!-- http://schamberlain.github.com/beer_recipes -->
+  <a href="{{ post.url }}" class="badge badge-warning">c'mon its only...{{ post.content | number_of_words }} words</a><i class="pull-right">{{ post.date | date: "%B %e, %Y" }}</i><br> 
   
   <hr class="gray-line">
 {% endfor %}
