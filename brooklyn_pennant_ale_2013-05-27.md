@@ -39,9 +39,13 @@ Steps:
 9. Remove pot from stove and cool down as fast as possible to temperature ideal for the yeast - I used the copper tubing I put in the boil earlier.
 10. Transfer cooled down wort to primary fermenter
 11. Put in yeast when temperature is right (Wyeast 1968 London ESB Ale yeast, pitch yeast at 68-72 degrees F)
-12. Took gravity reading right after pitching yeast. It was at 1.055 (matched the target, woohoo!). 
-12. Primary fermentation started on 2013-05-29, fermented at ~70 deg F, ended 2013-06-05
-13. Secondary fermentation started on 2013-06-05, ended on 2013-06-12
-14. Final gravity reading before bottling was XXX
+
+Dates:
++ Made and put into primary fermenter on 2013-05-29
+	+ initial gravity 1.055 (matched the target, woohoo!)
+	+ fermented at ~70 deg F, ended 2013-06-05
++ Moved to secondary fermentation on 2013-06-05, ended 2013-06-12
+	+ Final gravity reading before bottling was 1.010
++ Bottled on 2013-06-12 in mostly grolsch style bottles
 
 [book]: http://www.amazon.com/CloneBrews-Homebrew-Recipes-Commercial-Beers/dp/1580170773
