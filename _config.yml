@@ -3,4 +3,4 @@ url: http://schamberlain.github.io/beer_recipes
 markdown: rdiscount
 pygments: true
 paginator: 5
-permalink: /:year/:month/:title/
+permalink: /:year/:month/:day/:title/
