@@ -1,4 +1,14 @@
-# Brooklyn Pennant Ale  pale ale
+---
+name: brookly-pennant-ale
+layout: post
+title: Brooklyn Pennant Ale pale ale
+date: 2013-06-13
+author: Scott Chamberlain
+tags: 
+- ale
+- pale ale
+- clone
+---
 
 This is a clone of Dogfish Head's 60 minute IPA from the book [CloneBrews: Homebrew Recipes for 150 Commercial Beers][book]. 
 
@@ -41,6 +51,7 @@ Steps:
 11. Put in yeast when temperature is right (Wyeast 1968 London ESB Ale yeast, pitch yeast at 68-72 degrees F)
 
 Dates:
+
 + Made and put into primary fermenter on 2013-05-29
 	+ initial gravity 1.055 (matched the target, woohoo!)
 	+ fermented at ~70 deg F, ended 2013-06-05

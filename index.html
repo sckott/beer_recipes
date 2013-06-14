@@ -1,0 +1,21 @@
+---
+layout : layout_pubs
+title: index
+---
+
+<h1> Beer....yum </h1> 
+
+
+<h2>Posts</h2>
+<table class="table table-striped">
+  <tbody>
+	{% for post in site.posts %}	
+    <tr>
+      <td>
+		  <h3><a href="http://schamberlain.github.com/beer_recipes{{ post.url }}">{{ post.title }}</a></h3>
+		  <p><small>{{ post.date | date: "%B %e, %Y" }} . {% for tag in post.tags %} <a href="http://schamberlain.github.com/beer_recipes/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;">{{ tag }}</a>  {% if forloop.last != true %} {% endif %} {% endfor %}.</small></p>
+	  </td>
+    </tr>
+	{% endfor %}			
+  </tbody>
+</table> 
