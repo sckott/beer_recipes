@@ -41,36 +41,36 @@
 	</div> -->
 	
 	<div class="span3">
-		<h3><span class="icon-stack">
+		<h5><span class="icon-stack">
 		  	<i class="icon-circle icon-stack-base"></i>
 			<i class="icon-calendar icon-dark"></i>
 		</span>
-		<small>made on: </small>{{ page.datemadeon }}</h3>
-		<h3><span class="icon-stack">
+		<small>made on: </small>{{ page.datemadeon }}</h5>
+		<h5><span class="icon-stack">
 		  	<i class="icon-circle icon-stack-base"></i>
 			<i class="icon-calendar icon-dark icon-rotate-180"></i>
 		</span>
-		<small>2<sup>o</sup> fermentation on: </small>{{ page.datesecondferm }}</h3>
-		<h3><span class="icon-stack">
+		<small>2<sup>o</sup> fermentation on: </small>{{ page.datesecondferm }}</h5>
+		<h5><span class="icon-stack">
 		  	<i class="icon-circle icon-stack-base"></i>
 			<i class="icon-calendar icon-dark icon-rotate-270"></i>
 		</span>
-		<small>bottled on: </small>{{ page.datebottled }}</h3>
-	    <h3><span class="icon-stack">
+		<small>bottled on: </small>{{ page.datebottled }}</h5>
+	    <h5><span class="icon-stack">
 		  	<i class="icon-circle icon-stack-base"></i>
 			<i class="icon-beaker icon-light"></i>
 		</span>
-		<small>original gravity: </small>{{ page.gravity_one }}</h3>
-		<h3><span class="icon-stack">
+		<small>original gravity: </small>{{ page.gravity_one }}</h5>
+		<h5><span class="icon-stack">
 		  	<i class="icon-circle icon-stack-base"></i>
 			<i class="icon-beaker icon-dark"></i>
 		</span>
-		<small>final gravity: </small>{{ page.gravity_two }}</h3>
-		<h3><span class="icon-stack">
+		<small>final gravity: </small>{{ page.gravity_two }}</h5>
+		<h5><span class="icon-stack">
 		  	<i class="icon-circle icon-stack-base"></i>
 			<i class="icon-beer icon-dark"></i>
 		</span>
-		<small>ABV: </small>{{ page.gravity_one | minus: page.gravity_two | times: 131.25 }}</h3>
+		<small>ABV: </small>{{ page.gravity_one | minus: page.gravity_two | times: 131.25 }}</h5>
 		<!-- | tostring | truncate:4  -->
     </div>
 	

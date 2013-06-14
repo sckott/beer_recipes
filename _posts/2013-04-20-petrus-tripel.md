@@ -4,13 +4,18 @@ layout: post
 title: Petrus Tripel
 date: 2013-05-27
 author: Scott Chamberlain
+datemadeon: 2013-04-28
+gravity_one: 1.03
+gravity_two: 1.005
+datesecondferm: 2013-05-05
+datebottled: 2013-05-11
 tags: 
 - ale
 - belgian
 - clone
 ---
 
-This was a clone of Petrus Tripel from the book [CloneBrews: Homebrew Recipes for 150 Commercial Beers](http://www.amazon.com/CloneBrews-Homebrew-Recipes-Commercial-Beers/dp/1580170773). 
+This was a clone of Petrus Tripel from the book [CloneBrews: Homebrew Recipes for 150 Commercial Beers][book]. 
 
 Recipe:
 
@@ -58,6 +63,9 @@ After 90 min., vorloft a few times, drain out into pot, and sparge a bit.
 10. Transfer cooled down wort to primary fermenter
 11. Put in yeast when temperature is right (pitched at XXX degrees F)
 12. Took gravity reading right after pitching yeast. It was at 1.03, and was supposed to be at 1.074. So I boiled about 10 oz DME (all I had) + 11 oz sugar (all I had) in water, let it cool to 70 deg F, then mixed it in to the primary fermenter.
-12. Primary fermentation started on 2013-04-28, ended 2013-05-XX
+
+<!-- 12. Primary fermentation started on 2013-04-28, ended 2013-05-XX
 13. Secondary fermentation started on 2013-05-XX, ended on 2013-05-XX
-14. Final gravity reading before bottling was about 1.005, not very high alcohol that is.
+14. Final gravity reading before bottling was about 1.005, not very high alcohol that is. -->
+
+[book]: http://www.amazon.com/CloneBrews-Homebrew-Recipes-Commercial-Beers/dp/1580170773

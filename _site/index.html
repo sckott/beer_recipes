@@ -36,7 +36,7 @@
 				<a property="account" alt="twitter" href="http://schamberlain.github.io/beer_recipes"><i class="icon-beer icon-4x" rel="tooltip" data-placement="bottom" title="beer me" style="float: center;"></i></a>
 		  </li>
 		  <li>
-		  	<h2> Beer....yum </h2> 
+		  	<h2> Beer me </h2> 
 		  </li>
 		</ul>		
 	  </div>
@@ -60,7 +60,7 @@
   <!-- This is a clone of Brooklyn Pennant Ale pale ale... <i class="pull-right">June 13, 2013</i><br> -->
 
 <!-- http://schamberlain.github.com/beer_recipes -->
-  <a href="http://schamberlain.github.com/beer_recipes/2013/06/13/brooklyn-pennant-ale/" class="badge badge-warning">c'mon its only...393 words</a><i class="pull-right">June 13, 2013</i><br> 
+  <a href="http://schamberlain.github.com/beer_recipes/2013/06/13/brooklyn-pennant-ale/" class="badge badge-warning" rel="tooltip" data-placement="right" title="you can read about Brooklyn Pennant Ale pale ale by clicking on da button">c'mon its only...393 words</a><i class="pull-right" >June 13, 2013</i><br> 
   
   <hr class="gray-line">
 
@@ -74,7 +74,7 @@
   <!-- This was a clone of Petrus Tripel from the book... <i class="pull-right">May 27, 2013</i><br> -->
 
 <!-- http://schamberlain.github.com/beer_recipes -->
-  <a href="http://schamberlain.github.com/beer_recipes/2013/05/27/petrus-tripel/" class="badge badge-warning">c'mon its only...402 words</a><i class="pull-right">May 27, 2013</i><br> 
+  <a href="http://schamberlain.github.com/beer_recipes/2013/05/27/petrus-tripel/" class="badge badge-warning" rel="tooltip" data-placement="right" title="you can read about Petrus Tripel by clicking on da button">c'mon its only...407 words</a><i class="pull-right" >May 27, 2013</i><br> 
   
   <hr class="gray-line">
 
@@ -88,7 +88,7 @@
   <!-- This was a clone of Dogfish Head's 60 minute IPA... <i class="pull-right">March 18, 2013</i><br> -->
 
 <!-- http://schamberlain.github.com/beer_recipes -->
-  <a href="http://schamberlain.github.com/beer_recipes/2013/03/18/dogfishhead-60min/" class="badge badge-warning">c'mon its only...42 words</a><i class="pull-right">March 18, 2013</i><br> 
+  <a href="http://schamberlain.github.com/beer_recipes/2013/03/18/dogfishhead-60min/" class="badge badge-warning" rel="tooltip" data-placement="right" title="you can read about DogFish Head 60min IPA by clicking on da button">c'mon its only...24 words</a><i class="pull-right" >March 18, 2013</i><br> 
   
   <hr class="gray-line">
 
@@ -102,7 +102,7 @@
   <!-- Stock IPA recipe kit from F.H. Steinbart in Potland, OR... <i class="pull-right">January 30, 2013</i><br> -->
 
 <!-- http://schamberlain.github.com/beer_recipes -->
-  <a href="http://schamberlain.github.com/beer_recipes/2013/01/30/fhsteinbart-ipa/" class="badge badge-warning">c'mon its only...94 words</a><i class="pull-right">January 30, 2013</i><br> 
+  <a href="http://schamberlain.github.com/beer_recipes/2013/01/30/fhsteinbart-ipa/" class="badge badge-warning" rel="tooltip" data-placement="right" title="you can read about F.H. Steinbart IPA by clicking on da button">c'mon its only...94 words</a><i class="pull-right" >January 30, 2013</i><br> 
   
   <hr class="gray-line">
  		
@@ -121,7 +121,7 @@
 	</p>
 
 	<p>Designed and built using <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>, hosted on <a href="https://github.com/mojombo/jekyll">Github/Jekyll</a>.<!-- , <a href="http://jekyllrb.com/"  target="_blank">Jekyll</a>, slightly modified by <a href="https://github.com/erjjones" target="_blank">Erjjones</a>, and even more modified by me, <a href="https://github.com/schamberlain" target="_blank">schamberlain</a>.</p> -->
-	<!-- <p>Code licensed under the <a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank">Apache License v2.0</a>. Documentation licensed under <a href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.</p> -->
+	<!-- <p>Code licensed under the <a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank">Apache License v2.0</a>. Documentation licensed under <a href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.</p> --><br>
 	Icons from <a href="http://fortawesome.github.com/Font-Awesome">Font Awesome by Dave Gandy</a>, licensed under <a href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.</p> 
 	<p>Page last generated on June 14, 2013</p>
 </footer>
@@ -146,8 +146,11 @@
     <script src="http://schamberlain.github.io/beer_recipes/assets/js/bootstrap-carousel.js"></script>
     <script src="http://schamberlain.github.io/beer_recipes/assets/js/bootstrap-typeahead.js"></script>
     <script src="http://schamberlain.github.io/beer_recipes/assets/js/application.js"></script>
-    <script type="text/javascript" src="/js/jquery.githubwidget.min.js"></script>
     <script src="http://schamberlain.github.io/beer_recipes/assets/js/custom.js" type="text/javascript"></script>
-
+    
+    <script type="text/javascript">
+        $('[rel=tooltip]').tooltip();
+    </script>
+    
   </body>
 </html>

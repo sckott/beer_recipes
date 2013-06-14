@@ -4,6 +4,11 @@ layout: post
 title: F.H. Steinbart IPA
 date: 2013-01-30
 author: Scott Chamberlain
+datemadeon: 2013-01-30
+gravity_one: ??
+gravity_two: ??
+datesecondferm: 2013-02-05
+datebottled: 2013-02-12
 tags: 
 - ale
 - IPA
@@ -18,4 +23,4 @@ I made this I think near the end of January, drinking now (todays date: 2013-03-
 
 This is what the beer looks like after X days. Quite drinkable me thinks. In a Rogue glass for style points.
 
-![mugshot](assets/img/fhsteinbartIPA_mugshot.jpg)
+![mugshot](/assets/img/fhsteinbartIPA_mugshot.jpg)
