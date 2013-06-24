@@ -5,6 +5,7 @@ title: Brooklyn Pennant Ale pale ale
 date: 2013-06-13
 author: Scott Chamberlain
 datemadeon: 2013-05-29
+volume: 5
 gravity_one: 1.055
 gravity_two: 1.010
 datesecondferm: 2013-06-05
@@ -17,7 +18,7 @@ tags:
 
 This is a clone of Brooklyn Pennant Ale pale ale from the book [CloneBrews: Homebrew Recipes for 150 Commercial Beers][book]. 
 
-Ingredients:
+### Ingredients:
 
 + 9.5 lbs British 2-row pale malt (get 11 lbs instead as Dan's grinder is apparently bad)
 + 9 oz British crystal malt (get 12 oz)
@@ -32,9 +33,9 @@ Ingredients:
 + Wyeast 1968 London ESB Ale yeast (2nd choice: Wyeast 1028 London Ale yeast)
 + 1.25 cups Muntons extra-light DME
 
-Steps:
+### Steps:
 
-1. I'm doing whole grain, so I use a mash tun. Warmed up water in pot on stove to 154 degrees F. Then poured the whole three malts together into the cooler, and poured enough water on top of the malts to cover them.  I stirred occasionally and measured temperature. If it was too cold I put in some hot water.  After 90 min., vorlofted a bit, sparged with hotter water (160 deg F) a few times, and added back to pot. 
+1. I'm doing all grain, so I use a mash tun. Warmed up water in pot on stove to 154 degrees F. Then poured the whole three malts together into the cooler, and poured enough water on top of the malts to cover them.  I stirred occasionally and measured temperature. If it was too cold I put in some hot water.  After 90 min., vorlofted a bit, sparged with hotter water (160 deg F) a few times, and added back to pot. 
 2. Brought volume in pot up to about 5 gallons. Bring to boil.
 3. Add 
 	+ 1 oz. Fuggles hops (for bittering)

@@ -35,13 +35,13 @@ Steps:
 
 1. I'm doing whole grain, so I made a mash tun that looks like this
 
-![mashtun](/assets/img/mashtun.jpg)
+![mashtun](http://schamberlain.github.io/beer_recipes/assets/img/mashtun.jpg)
 
 Warmed up water in pot on stove to 151 degrees F. Then poured the whole three malts together into the cooler, and poured enough water on top of the malts to cover them.I stirred occasionally and measured temperature. If it was too cold I put in some hot water. 
 
 This is what it looks like while doing its thing in the cooler 
 
-![doinitsthing](/assets/img/mashtun_petrus_tripel.jpg)
+![doinitsthing](http://schamberlain.github.io/beer_recipes/assets/img/mashtun_petrus_tripel.jpg)
 
 After 90 min., vorloft a few times, drain out into pot, and sparge a bit. 
 

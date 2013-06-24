@@ -57,6 +57,12 @@
 			<!-- rel="tooltip" data-placmement="left" title="{{site.time | date: '%d'}} days since bottled" -->
 		</span>
 		<small>bottled on: </small>{{ page.datebottled }} </h5>
+		<h5><span class="icon-stack">
+		  	<i class="icon-circle icon-stack-base"></i>
+			<i class="icon-calendar icon-dark icon-rotate-270"></i>
+			<!-- rel="tooltip" data-placmement="left" title="{{site.time | date: '%d'}} days since bottled" -->
+		</span>
+		<small>volume (gal): </small>{{ page.volume }} </h5>
 	    <h5><span class="icon-stack">
 		  	<i class="icon-circle icon-stack-base"></i>
 			<i class="icon-beaker icon-light"></i>
@@ -71,7 +77,7 @@
 		  	<i class="icon-circle icon-stack-base"></i>
 			<i class="icon-beer icon-dark"></i>
 		</span>
-		<small>ABV: </small>{{ page.gravity_one | minus: page.gravity_two | times: 131.25 }}</h5>
+		<small>ABV: </small>{{ page.gravity_one | minus: page.gravity_two | times: 131.25 | round_num: 2 }}</h5>
 		<!-- | tostring | truncate:4  -->
     </div>
 	

@@ -23,4 +23,4 @@ I made this I think near the end of January, drinking now (todays date: 2013-03-
 
 This is what the beer looks like after X days. Quite drinkable me thinks. In a Rogue glass for style points.
 
-![mugshot](/assets/img/fhsteinbartIPA_mugshot.jpg)
+![mugshot](http://schamberlain.github.io/beer_recipes/assets/img/fhsteinbartIPA_mugshot.jpg)
