@@ -7,9 +7,9 @@ author: Scott Chamberlain
 datemadeon: 2013-06-16
 volume: 4
 gravity_one: 1.062
-gravity_two: 0
+gravity_two: 1.010
 datesecondferm: 2013-06-22
-datebottled: 2013-06-27
+datebottled: 2013-06-28
 tags: 
 - ale
 - IPA
@@ -62,6 +62,7 @@ tags:
 15. At start of secondary fermentation after primary (7 days later), add
 	+ 1 oz. Chinook hops
 	+ 1.5 oz. Columbus hops
+16. Just before bottling, boiled 3/4 c. corn sugar, added to mix, and then bottled. 
 
 Note: I lost about 1 gal during boil, but measured original gravity at right place before pitching yeast, so didn't want to add more water. 
 
