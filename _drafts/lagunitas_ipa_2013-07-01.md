@@ -5,11 +5,11 @@ title: Lagunitas IPA
 date: 2013-07-01
 author: Scott Chamberlain
 datemadeon: 2013-07-01
-volume: X
-gravity_one: X
-gravity_two: X
-datesecondferm: X
-datebottled: X
+volume: 5
+gravity_one: 0
+gravity_two: 0
+datesecondferm: 2013-06-29
+datebottled: 2013-06-29
 tags: 
 - ale
 - IPA
@@ -40,9 +40,7 @@ target ABV: 5.7%
 
 ### Steps:
 
-**still need to write in steps from book - though all above is good**
-
-1. Warmed up water in pot on stove to 152 degrees F. Then poured all malt in together into the cooler, and poured enough water on top of the malts to cover them.  I stirred occasionally and measured temperature. If it was too cold I put in some hot water.  After 70 min., vorlofted 3 times, sparged with hotter water (165 deg F) twice (each time resting for about 10 min.), and added back to pot each time. 
+1. Warmed up water in pot on stove to 151 degrees F. Then poured all malt in together into the cooler, and poured enough water on top of the malts to cover them.  I stirred occasionally and measured temperature. If it was too cold I put in some hot water.  After 90 min., vorlofted 3 times, sparged with hotter water (165 deg F) twice (each time resting for about 10 min.), and added back to pot each time. 
 2. Brought volume in pot up to about 5.2 gallons. 
 3. Add 
 	+ 0.25 oz. Columbus hops 
