@@ -8,12 +8,12 @@
 # {{ 5.678 | round_num: 2 }} # gives 5.68
 # {{ 5.678 | round_num: 1 }} # gives 5.7
 
-module Jekyll
-  module RoundNum
-    def round_num(input,digits)
-      x = input
-      x.round(digits)
-    end
-  end
+# module Jekyll
+module RoundNum
+	def round_num(input,digits)
+	  x = input
+	  x.round(digits)
+	end
 end
-Liquid::Template.register_filter(Jekyll::RoundNum)
+# end
+Liquid::Template.register_filter(RoundNum)
