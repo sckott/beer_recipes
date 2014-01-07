@@ -8,13 +8,13 @@ title: index
     <i>{{ post.date | date: "%B %e, %Y" }}</i>
   </div> -->
   
-  <h3>{{ post.title }}</h3>
+  <h3> <a href="{{ url }}{{ post.url }}">{{ post.title }}</a><i class="pull-right" >{{ post.date | date: "%B %e, %Y" }}</i></h3>
   <!-- <i>{{ post.author }}</i>   -->
 
   <!-- {{ post.content | strip_html | truncatewords:10}} <i class="pull-right">{{ post.date | date: "%B %e, %Y" }}</i><br> -->
 
 <!-- http://sckott.github.io/beer_recipes -->
-  <a href="{{ url }}{{ post.url }}" class="badge badge-warning" rel="tooltip" data-placement="right" title="you can read about {{ post.title }} by clicking on da button">c'mon its only...{{ post.content | number_of_words }} words</a><i class="pull-right" >{{ post.date | date: "%B %e, %Y" }}</i><br> 
+<!--   <a href="{{ url }}{{ post.url }}" class="badge badge-warning" rel="tooltip" data-placement="right" title="you can read about {{ post.title }} by clicking on da button">c'mon its only...{{ post.content | number_of_words }} words</a><i class="pull-right" >{{ post.date | date: "%B %e, %Y" }}</i><br>  -->
   
   <hr class="gray-line">
 {% endfor %}
