@@ -77,7 +77,8 @@
 		  	<i class="icon-circle icon-stack-base"></i>
 			<i class="icon-beer icon-dark"></i>
 		</span>
-		<small>ABV: </small>{{ page.gravity_one | minus: page.gravity_two | times: 131.25 | round_num: 2 }}</h5>
+		<small>ABV: </small>{{ page.gravity_one | minus: page.gravity_two | times: 131.25 }}</h5>
+		<!-- <small>ABV: </small>{{ page.gravity_one | minus: page.gravity_two | times: 131.25 | round_num }}</h5> -->
 		<!-- | tostring | truncate:4  -->
     </div>
 	
