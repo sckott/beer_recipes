@@ -22,16 +22,17 @@ This is v0.3 of this clone. Made `v0.1` on [2013-05-27](http://recology.info/bee
 
 ### Ingredients:
 
-+ 11 lbs ESB malt
-+ 9 oz British crystal malt
-+ 6 oz aromatic malt
++ 11 lbs British 2 row pale malt (GET)
++ 9 oz British crystal malt (GET)
++ 6 oz aromatic malt (GET)
 + Hops
 	+ 2 oz. Nugget (instead of Fuggles)
 	+ 1.5 oz. Saaz (instead of Willamette)
-	+ 1/3 oz each of Perle, Hallertau, Cascade? if good price
+	+ 1/3 oz each of Perle, Hallertau, Cascade? if good price (GET)
 + 1 tsp. Irish moss 
-+ Wyeast 1968 London ESB
++ Wyeast 1968 London ESB (GET)
 + 1.25 cups Muntons extra-light DME
++ new hydrometer (GET)
 
 ### Steps:
 
