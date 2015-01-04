@@ -1,7 +1,7 @@
 name: beerme
 # url: http://sckott.github.io/beer_recipes
 markdown: rdiscount
-pygments: true
+highlighter: pygments
 permalink: /:year/:month/:day/:title/
 relative_permalinks: true
 baseurl: "/beer_recipes"
