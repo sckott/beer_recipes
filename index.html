@@ -8,7 +8,9 @@ title: index
     <i>{{ post.date | date: "%B %e, %Y" }}</i>
   </div> -->
 
-  <h3> <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><i class="pull-right" >{{ post.date | date: "%B %e, %Y" }}</i></h3>
+<!--   <h3> <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><i class="pull-right" >{{ post.date | date: "%B %e, %Y" }}</i></h3> -->
+
+  <h3> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><i class="pull-right" >{{ post.date | date: "%B %e, %Y" }}</i> </h3>
   <!-- <i>{{ post.author }}</i>   -->
 
   <!-- {{ post.content | strip_html | truncatewords:10}} <i class="pull-right">{{ post.date | date: "%B %e, %Y" }}</i><br> -->
