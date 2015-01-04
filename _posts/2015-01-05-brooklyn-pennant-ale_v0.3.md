@@ -1,15 +1,15 @@
 ---
 name: brookly-pennant-ale
 layout: post
-title: Brooklyn Pennant Ale '55 v0.2
-date: 2014-01-05
+title: Brooklyn Pennant Ale '55 v0.3
+date: 2015-01-04
 author: Scott Chamberlain
-datemadeon: 2014-01-05
+datemadeon: 2015-01-04
 volume: 5
-gravity_one: 1.05
-gravity_two: 1.01
-datesecondferm: 2014-01-12
-datebottled: 2014-01-18
+gravity_one: 1.xx
+gravity_two: 1.xx
+datesecondferm: 2015-01-xx
+datebottled: 2015-01-xx
 tags: 
 - ale
 - pale ale
@@ -18,7 +18,7 @@ tags:
 
 This is a clone of Brooklyn Pennant Ale pale ale from the book [CloneBrews: Homebrew Recipes for 150 Commercial Beers][book]. 
 
-This is v0.2 of this clone. Made v0.1 on [2013-05-27](http://recology.info/beer_recipes/2013-05-27-brooklyn-pennant-ale_V0.1.html). There are some definite differences from v0.1 of this recipe - I forgot to get the extra few ounces of crystal and aromatic malts at the brew shop, and I bought Nugget and Saaz hops in bulk pellets a while back, so just using those in this recipe instead of the suggested mix of 5 different varietals. 
+This is v0.3 of this clone. Made `v0.1` on [2013-05-27](http://recology.info/beer_recipes/2013-05-27-brooklyn-pennant-ale_V0.1.html), and `v0.2` on [2014-01-05](http://recology.info/beer_recipes/2014/01/05/brooklyn-pennant-ale_v0.2/) - nearly one year ago to the day! `v0.3` is similar to `v0.2` in that I'm using Nugget and Saaz hops instead of Fuggles and Willamette. 
 
 ### Ingredients:
 
@@ -28,8 +28,9 @@ This is v0.2 of this clone. Made v0.1 on [2013-05-27](http://recology.info/beer_
 + Hops
 	+ 2 oz. Nugget (instead of Fuggles)
 	+ 1.5 oz. Saaz (instead of Willamette)
+	+ 1/3 oz each of Perle, Hallertau, Cascade? if good price
 + 1 tsp. Irish moss 
-+ Wyeast 1450 Denny's Fav (was supposed to use Wyeast 1968 London ESB)
++ Wyeast 1968 London ESB
 + 1.25 cups Muntons extra-light DME
 
 ### Steps:
@@ -54,4 +55,4 @@ This is v0.2 of this clone. Made v0.1 on [2013-05-27](http://recology.info/beer_
 9. Remove pot from stove and cool down as fast as possible to temperature ideal for the yeast - I used the copper tubing I put in the boil earlier.
 10. Transfer cooled down wort to primary fermenter (carboy)
 11. Put in yeast when temperature is right (Wyeast 1450 Denny's Fav, pitch yeast at 68-72 degrees F)
-12. On 2014-01-11 moved to secondary fermenter (bucket)
+12. On 2015-01-xx moved to secondary fermenter (bucket)
