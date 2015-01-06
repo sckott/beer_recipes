@@ -9,10 +9,13 @@ gravity_one: ??
 gravity_two: ??
 datesecondferm: 2013-03-25
 datebottled: 2013-04-01
+categories:
+- recipe
 tags: 
 - ale
 - IPA
 - clone
+- recipe
 ---
 
 This was a clone of Dogfish Head's 60 minute IPA from the book [CloneBrews: Homebrew Recipes for 150 Commercial Beers][book]. 

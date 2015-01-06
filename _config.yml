@@ -1,7 +1,23 @@
-name: beerme
-# url: http://sckott.github.io/beer_recipes
-markdown: rdiscount
-highlighter: pygments
-permalink: /:year/:month/:day/:title/
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
 relative_permalinks: true
-baseurl: "/beer_recipes"
+
+# Setup
+title:               scott's beer recipes
+tagline:             'yum'
+description:         'my beer recipes'
+baseurl:             /beer_recipes/
+paginate:            3
+
+# About/contact
+github: 						 https://github.com/sckott/beer_recipes
+author:
+  name:              Scott Chamberlain
+  url:               https://twitter.com/recology_
+  email:             myrmecocystus@gmail.com

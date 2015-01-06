@@ -10,13 +10,18 @@ gravity_one: 1.062
 gravity_two: 1.010
 datesecondferm: 2013-06-22
 datebottled: 2013-06-28
+categories:
+- recipe
 tags: 
 - ale
 - IPA
 - cascadian
+- recipe
 ---
 
-### Ingredients: 
+From [here](http://forum.northernbrewer.com/viewtopic.php?f=1&t=109879). Original recipe called it a Cascadian Dark Ale.
+
+### Ingredients
 
 ##### Grains
 
@@ -65,18 +70,3 @@ tags:
 16. Just before bottling, boiled 3/4 c. corn sugar, added to mix, and then bottled. 
 
 Note: I lost about 1 gal during boil, but measured original gravity at right place before pitching yeast, so didn't want to add more water. 
-
-From [here](http://forum.northernbrewer.com/viewtopic.php?f=1&t=109879). Original recipe called it a Cascadian Dark Ale.
-
-<!-- Recipe Specs
-----------------
-Batch Size (G): 5.5
-Total Grain (lb): 13.750
-Total Hops (oz): 7.50
-Original Gravity (OG): 1.065 (°P): 15.9
-Final Gravity (FG): 1.016 (°P): 4.1
-Alcohol by Volume (ABV): 6.39 %
-Colour (SRM): 38.6 (EBC): 76.0
-Bitterness (IBU): 71.9 (Average)
-Brewhouse Efficiency (%): 70
-Boil Time (Minutes): 75 -->

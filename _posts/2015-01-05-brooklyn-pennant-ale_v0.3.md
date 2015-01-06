@@ -10,6 +10,8 @@ gravity_one: 1.xx
 gravity_two: 1.xx
 datesecondferm: 2015-01-xx
 datebottled: 2015-01-xx
+categories:
+- recipe
 tags: 
 - ale
 - pale ale
@@ -44,17 +46,20 @@ This is v0.3 of this clone. Made `v0.1` on [2013-05-27](http://recology.info/bee
 	+ 1 oz. Saaz hops (for bittering)
 4. Boil for 45 min
 5. Add
-	+ 1/3 oz. Nugget hops (for flavor)
-	+ 1/3 oz. Saaz hops (for flavor)
+	+ 1/3 oz. Perle hops (for flavor)
+	+ 1/3 oz. German Hallertau hops (for flavor)
 	+ 1 tbsp irish moss
 	+ (put in the copper tubing apparatus to sterilize for the last 15 min. of boil)
 6. Boil for 14 minutes
 7. Add aroma hops
-	+ 1/2 oz. Nugget hops
-	+ 2/10 oz. Saaz hops
+	+ 1/3 oz. Cascade hops
+	+ 1/3 oz. Nugget hops
 8. Boil for 1 minute 
 	+ Measure initial gravity at this point, should be 1.055 (if not matching, perhaps put in more sugar if number too low, or more water if number too high)
 9. Remove pot from stove and cool down as fast as possible to temperature ideal for the yeast - I used the copper tubing I put in the boil earlier.
 10. Transfer cooled down wort to primary fermenter (carboy)
 11. Put in yeast when temperature is right (yeast, pitched yeast at 68-72 degrees F)
 12. On 2015-01-xx moved to secondary fermenter (bucket)
+13. Bottled on 2015-01-xx
+
+[book]: http://www.amazon.com/CloneBrews-Homebrew-Recipes-Commercial-Beers/dp/1580170773
