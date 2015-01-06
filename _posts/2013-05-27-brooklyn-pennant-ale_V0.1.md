@@ -10,10 +10,13 @@ gravity_one: 1.055
 gravity_two: 1.010
 datesecondferm: 2013-06-05
 datebottled: 2013-06-12
+categories:
+- recipe
 tags: 
 - ale
 - pale ale
 - clone
+- recipe
 ---
 
 This is a clone of Brooklyn Pennant Ale pale ale from the book [CloneBrews: Homebrew Recipes for 150 Commercial Beers][book]. 

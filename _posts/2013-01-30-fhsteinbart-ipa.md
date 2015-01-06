@@ -9,10 +9,13 @@ gravity_one: ??
 gravity_two: ??
 datesecondferm: 2013-02-05
 datebottled: 2013-02-12
+categories:
+- recipe
 tags: 
 - ale
 - IPA
 - clone
+- recipe
 ---
 
 ### Stock IPA recipe kit from F.H. Steinbart in Potland, OR

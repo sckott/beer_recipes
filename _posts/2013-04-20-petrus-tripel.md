@@ -9,10 +9,13 @@ gravity_one: 1.03
 gravity_two: 1.005
 datesecondferm: 2013-05-05
 datebottled: 2013-05-11
+categories:
+- recipe
 tags: 
 - ale
 - belgian
 - clone
+- recipe
 ---
 
 This was a clone of Petrus Tripel from the book [CloneBrews: Homebrew Recipes for 150 Commercial Beers][book]. 

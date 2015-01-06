@@ -1,90 +1,74 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link href='http://fonts.googleapis.com/css?family=Merienda' rel='stylesheet' type='text/css'>
-    <link href="http://sckott.github.io/beer_recipes/assets/css/bootstrap.css" rel="stylesheet">
-    <link href="http://sckott.github.io/beer_recipes/assets/css/bootstrap-responsive.css" rel="stylesheet">
-    <link href="http://sckott.github.io/beer_recipes/assets/FontAwesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="http://sckott.github.io/beer_recipes/assets/css/docs.css" rel="stylesheet">
-    <link href="http://sckott.github.io/beer_recipes/assets/js/google-code-prettify/prettify.css" rel="stylesheet">	
-    <!-- <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet"> -->
-    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.0/css/font-awesome.css" rel="stylesheet">
-	<link rel="shortcut icon" href="/favicon.ico">    
-  </head>
-  <body data-spy="scroll" data-target=".subnav" data-offset="50">
-	
-	{% include navigation.html %}  
+---
+layout: default
+---
 
-	<div class="container" style="width:1000px">	
-		<div class="marketing">
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
 
-	<div class="row">
-		<p><h1>{{ page.title }}</h1></p>	
-		<div class="span3 column">
-			<h4><strong>{{ page.date | date: "%B %e, %Y" }} <small>. {{ page.category }} .</small></strong>
-			<br/><small>Tags: {% for tag in page.tags %} <a href="/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"><u>{{ tag }}</u></a>  {% if forloop.last != true %} {% endif %} {% endfor %} </small></h4>
-		</div>		
-		<div class="span9 column">
-			<p class="pull-left">{% if page.previous.url %} <a href="{{ url }}{{page.previous.url}}" title="Previous Post: {{page.previous.title}}"><i class="icon-circle-arrow-left icon-2x"></i></a> 	{% endif %}   {% if page.next.url %} 	<a href="{{ url }}{{page.next.url}}" title="Next Post: {{page.next.title}}"><i class="icon-circle-arrow-right icon-2x"></i></a> 	{% endif %} </p> 
-		</div>
-	</div>
-<!-- 
-	<div class="row">
-		<div class="span8 column">
-			<hr>
-		</div>
-	</div> -->
-	
-	<div class="span3">
-		<h5><span class="icon-stack">
-		  	<i class="icon-circle icon-stack-base"></i>
-			<i class="icon-calendar icon-dark"></i>
-		</span>
-		<small>made on: </small>{{ page.datemadeon }}</h5>
-		<h5><span class="icon-stack">
-		  	<i class="icon-circle icon-stack-base"></i>
-			<i class="icon-calendar icon-dark icon-rotate-180"></i>
-		</span>
-		<small>2<sup>o</sup> fermentation on: </small>{{ page.datesecondferm }}</h5>
-		<h5><span class="icon-stack">
-		  	<i class="icon-circle icon-stack-base"></i>
-			<i class="icon-calendar icon-dark icon-rotate-270"></i>
-			<!-- rel="tooltip" data-placmement="left" title="{{site.time | date: '%d'}} days since bottled" -->
-		</span>
-		<small>bottled on: </small>{{ page.datebottled }} </h5>
-		<h5><span class="icon-stack">
-		  	<i class="icon-circle icon-stack-base"></i>
-			<i class="icon-signal icon-dark icon-rotate-270"></i>
-			<!-- rel="tooltip" data-placmement="left" title="{{site.time | date: '%d'}} days since bottled" -->
-		</span>
-		<small>volume (gal): </small>{{ page.volume }} </h5>
-	    <h5><span class="icon-stack">
-		  	<i class="icon-circle icon-stack-base"></i>
-			<i class="icon-beaker icon-light"></i>
-		</span>
-		<small>original gravity: </small>{{ page.gravity_one }}</h5>
-		<h5><span class="icon-stack">
-		  	<i class="icon-circle icon-stack-base"></i>
-			<i class="icon-beaker icon-dark"></i>
-		</span>
-		<small>final gravity: </small>{{ page.gravity_two }}</h5>
-		<h5><span class="icon-stack">
-		  	<i class="icon-circle icon-stack-base"></i>
-			<i class="icon-beer icon-dark"></i>
-		</span>
-		<small>ABV: </small>{{ page.gravity_one | minus: page.gravity_two | times: 131.25 }}</h5>
-		<!-- <small>ABV: </small>{{ page.gravity_one | minus: page.gravity_two | times: 131.25 | round_num }}</h5> -->
-		<!-- | tostring | truncate:4  -->
-    </div>
-	
-	<div class="span6">
-	    {{ content }}
-    </div>
+  <h5><span class="fa-stack">
+    <i class="fa fa-circle fa-stack-2x"></i>
+    <i class="fa fa-calendar fa-stack-1x fa-inverse"></i>
+  </span>
+  <small>made on: </small>{{ page.datemadeon }}</h5>
 
-    {% include footer_nodisqus.html %}
-    {% include javascript.html %}
+  <h5>
+  <span class="fa-stack">
+    <i class="fa fa-circle fa-stack-2x"></i>
+    <i class="fa fa-calendar fa-stack-1x fa-inverse fa-rotate-180"></i>
+  </span>
+  <small>2<sup>o</sup> fermentation on: </small>{{ page.datesecondferm }}</h5>
+
+  <h5>
+    <span class="fa-stack">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fa fa-calendar fa-stack-1x fa-inverse fa-rotate-270"></i>
+  </span>
+  <small>bottled on: </small>{{ page.datebottled }} </h5>
+
+  <h5>
+    <span class="fa-stack">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fa fa-signal fa-stack-1x fa-inverse fa-rotate-270"></i>
+  </span>
+  <small>volume (gal): </small>{{ page.volume }} </h5>
+
+  <h5>
+    <span class="fa-stack">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fa fa-flask fa-stack-1x fa-inverse"></i>
+    </span>
+  <small>original gravity: </small>{{ page.gravity_one }}</h5>
+
+  <h5>
+    <span class="fa-stack">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fa fa-flask fa-stack-1x fa-inverse"></i>
+    </span>
+  <small>final gravity: </small>{{ page.gravity_two }}</h5>
+
+  <h5>
+    <span class="fa-stack">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fa fa-beer fa-stack-1x fa-inverse"></i>
+    </span>
+  <small>ABV: </small>{{ page.gravity_one | minus: page.gravity_two | times: 131.25 }}</h5>
+
+  {{ content }}
+</div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <h3>
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.title }}
+            <small>{{ post.date | date_to_string }}</small>
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

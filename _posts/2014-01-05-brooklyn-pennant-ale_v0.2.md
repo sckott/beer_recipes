@@ -10,10 +10,13 @@ gravity_one: 1.05
 gravity_two: 1.01
 datesecondferm: 2014-01-12
 datebottled: 2014-01-18
+categories:
+- recipe
 tags: 
 - ale
 - pale ale
 - clone
+- recipe
 ---
 
 This is a clone of Brooklyn Pennant Ale pale ale from the book [CloneBrews: Homebrew Recipes for 150 Commercial Beers][book]. 
@@ -52,5 +55,6 @@ This is v0.2 of this clone. Made v0.1 on [2013-05-27](http://recology.info/beer_
 8. Boil for 1 minute 
 	+ Measure initial gravity at this point, should be 1.055 (if not matching, perhaps put in more sugar if number too low, or more water if number too high)
 9. Remove pot from stove and cool down as fast as possible to temperature ideal for the yeast - I used the copper tubing I put in the boil earlier.
-10. Transfer cooled down wort to primary fermenter
+10. Transfer cooled down wort to primary fermenter (carboy)
 11. Put in yeast when temperature is right (Wyeast 1450 Denny's Fav, pitch yeast at 68-72 degrees F)
+12. On 2014-01-11 moved to secondary fermenter (bucket)
