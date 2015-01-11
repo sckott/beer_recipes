@@ -10,8 +10,6 @@ gravity_one: 1.xx
 gravity_two: 1.xx
 datesecondferm: 2015-01-xx
 datebottled: 2015-01-xx
-categories:
-- todo
 tags: 
 - ale
 - clone
@@ -24,7 +22,7 @@ Named after my cat, Leo
 <img src="/beer_recipes/public/img/leo_giffed.gif" width="300">
 
 This is v0.1 of this clone. I'm modifying this slightly from the original recipe. The target was to get a clone of Burnside Brewing's Oatmeal Pale Ale...we'll see how it goes. 
-
+2d
 ### Ingredients:
 
 * 9.5 lb Pilsner grain ?? (original recipe used 7 lbs Pilsner LME) (GET)
