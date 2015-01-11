@@ -6,7 +6,7 @@ date: 2015-01-04
 author: Scott Chamberlain
 datemadeon: 2015-01-04
 volume: 5
-gravity_one: 1.xx
+gravity_one: 1.055
 gravity_two: 1.xx
 datesecondferm: 2015-01-10
 datebottled: 2015-01-xx
@@ -59,7 +59,7 @@ This is v0.3 of this clone. Made `v0.1` on [2013-05-27](http://recology.info/bee
 9. Remove pot from stove and cool down as fast as possible to temperature ideal for the yeast - I used the copper tubing I put in the boil earlier.
 10. Transfer cooled down wort to primary fermenter (carboy)
 11. Put in yeast when temperature is right (yeast, pitched yeast at 68-72 degrees F)
-12. On 2015-01-xx moved to secondary fermenter (bucket)
+12. On 2015-01-10 moved to secondary fermenter (bucket)
 13. Bottled on 2015-01-xx
 
 [book]: http://www.amazon.com/CloneBrews-Homebrew-Recipes-Commercial-Beers/dp/1580170773
