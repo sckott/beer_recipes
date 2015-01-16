@@ -58,7 +58,7 @@ I'm modifying this slightly from the original recipe. The target was to get a cl
 10. Transfer cooled down wort to primary fermenter (carboy)
 11. Put in yeast when temperature is right (yeast, pitched yeast at 68-72 degrees F)
 12. On 2015-01-xx moved to secondary fermenter (bucket)
-    + Dry hopped with 1 oz. Mt. Hood hops
+    + Dry hop with 1 oz. Mt. Hood hops
 13. Bottled on 2015-01-xx
 
 the mash tun 
