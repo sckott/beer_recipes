@@ -57,9 +57,9 @@ I'm modifying this slightly from the original recipe. The target was to get a cl
 9. Remove pot from stove and cool down as fast as possible to temperature ideal for the yeast - I used the copper tubing I put in the boil earlier.
 10. Transfer cooled down wort to primary fermenter (carboy)
 11. Put in yeast when temperature is right (yeast, pitched yeast at 68-72 degrees F)
-12. On 2015-01-xx moved to secondary fermenter (bucket)
+12. On 2015-01-17 moved to secondary fermenter (bucket)
     + Dry hop with 1 oz. Mt. Hood hops
-13. Bottled on 2015-01-xx
+13. will probably bottle on 2015-01-22
 
 the mash tun 
 
