@@ -17,7 +17,7 @@ tags:
 - lagunitas
 ---
 
-This was a clone of Lagunitas IPA from the book [CloneBrews: Homebrew Recipes for 200 Commercial Beers][book].
+This is a clone of Lagunitas IPA from the book [CloneBrews: Homebrew Recipes for 200 Commercial Beers][book].
 
 ### Ingredients
 
@@ -30,7 +30,7 @@ This was a clone of Lagunitas IPA from the book [CloneBrews: Homebrew Recipes fo
 
 ##### Hop bill
 
-+ 1 oz Horizon (recipe said to do 29% less than 1 oz for all grain, but I like the hops)
++ 1 oz Magnum (recipe had Horizon) (recipe said to do 29% less than 1 oz for all grain, but I like the hops)
 + 0.5 oz Willamette
 + 1.4 oz Cascade
 + 0.6 oz Centennial
