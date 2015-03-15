@@ -16,7 +16,7 @@ tags:
 - oatmeal
 ---
 
-__POST BREWING NOTES:__ Crap, so i screwed the ABV up on this one. Not sure what went wrong - maybe didn't grind up grains sufficiently at the brew shop, or didn't mash long enough. Hmmmm...It was probably the fact that there was 3lbs crystal in the original recipe (link below), and brew shop suggested that was too much, so went down to 1.5 lbs. Should have upped the main grain by 1.5 lbs or more. 
+__POST BREWING NOTES:__ Crap, so i screwed the ABV up on this one. Not sure what went wrong - maybe didn't grind up grains sufficiently at the brew shop, or didn't mash long enough. Hmmmm...It was probably the fact that there was 3lbs crystal in the original recipe (link below), and brew shop suggested that was too much, so went down to 1.5 lbs. Should have upped the main grain by 1.5 lbs or more. So should be ~11 lb 2-row pale malt next time. 
 
 Modified from the recipe [http://therootcellarsgarden.com/2011/11/12/the-3-points-nw-oatmeal-pale-ale-extract/](http://therootcellarsgarden.com/2011/11/12/the-3-points-nw-oatmeal-pale-ale-extract/)
 
