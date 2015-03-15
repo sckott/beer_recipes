@@ -38,8 +38,9 @@ This is a clone of Lagunitas IPA from the book [CloneBrews: Homebrew Recipes for
 ### Steps:
 
 1. Warmed up water in pot on stove to 151 degrees F. Then poured all malt in together into the cooler, and poured enough water on top of the malts to cover them.  I stirred occasionally and measured temperature. If it was too cold I put in some hot water.  After 90 min., vorlofted 3 times, sparged with hotter water (165 deg F) twice (each time resting for about 10 min.), and added back to pot each time. 
-2. Brought volume in pot up to about 5.2 gallons. 
+2. Brought volume in pot up to about 5.2 gallons.
 3. Add 
+    + 1 tbsp. burton water salts
     + 1 oz. Horizon hops 
 4. Boil for 45 min.
 5. Add 
