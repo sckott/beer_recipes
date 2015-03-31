@@ -7,8 +7,8 @@ author: Scott Chamberlain
 datemadeon: 2015-03-15
 volume: 5
 gravity_one: 1.06
-gravity_two: 1.xx
-datesecondferm: 2015-03-20
+gravity_two: 1.012
+datesecondferm: 2015-03-19
 datebottled: 2015-03-24
 tags: 
 - ale
@@ -60,7 +60,7 @@ This is a clone of Lagunitas IPA from the book [CloneBrews: Homebrew Recipes for
 14. Transfer cooled down wort to primary fermenter
 15. Put in yeast when temperature is right (Wyeast 1056 - American Ale Yeast, pitch yeast at 69 degrees F).
 16. At start of secondary fermentation after primary (7 days later), add
-    + 0.5 oz. Cascade hops
+    + 0.25 oz. Cascade hops (was supposed to be 0.5, so put in .25 of Saaz)
     + 0.25 oz. Centennial hops
 17. Just before bottling, boiled 1.25 c. DME, added to mix, and then bottled. 
 
