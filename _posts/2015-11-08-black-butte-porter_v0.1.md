@@ -27,6 +27,7 @@ This is a clone of Black Butte porter from the [American Homebrewer's Associatio
 + 12.8 oz (363 g) chocolate wheat malt
 + 8.0 oz (227 g) 80° L crystal malt
 + 5.0 oz (142 g) dextrin malt
+
 <!-- + 10 lbs American 2-Row pale malt (original called for 9.25, I upped a bitto account for probably lower efficiency of extraction process I have)
 + 12 oz. German Dark Munich malt 
 + 8 oz. 10oL American crystal malt
@@ -34,9 +35,10 @@ This is a clone of Black Butte porter from the [American Homebrewer's Associatio
 
 ##### Hop bill
 
-+ 0.5 oz (14 g) Galena pellet hops, 13% a.a. (90 min)
-+ 0.25 oz (7 g) Cascade pellet hops, 5.75% a.a. (15 min)
++ 1 oz (14 g) Galena pellet hops, 13% a.a. (90 min)
++ 0.4 oz (7 g) Cascade pellet hops, 5.75% a.a. (15 min)
 + 0.25 oz (7 g) Hallertauer pellet hops, 4.5% a.a. (5 min)
+
 <!-- + 1 oz Magnum (recipe had Horizon) (recipe said to do 29% less than 1 oz for all grain, but I like the hops)
 + 0.5 oz Willamette
 + 1.4 oz Cascade
@@ -55,7 +57,7 @@ This is a clone of Black Butte porter from the [American Homebrewer's Associatio
     + 1 oz. Galena hops (recipe had 0.5 oz)
 4. Boil for 75 min.
 5. Add 
-    + 0.3 oz. Cascade hops (recipe had 0.25)
+    + 0.4 oz. Cascade hops (recipe had 0.25)
     + 1 tsp. Irish moss
 6. Boil for 10 min.
 8. Add
