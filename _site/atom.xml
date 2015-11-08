@@ -4,7 +4,7 @@
  <title>scott's beer recipes</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2015-05-21T09:53:47-07:00</updated>
+ <updated>2015-11-08T10:19:54-08:00</updated>
  <id></id>
  <author>
    <name>Scott Chamberlain</name>
@@ -13,8 +13,85 @@
 
  
  <entry>
+   <title>black-butte-porter clone v0.1</title>
+   <link href="/2015/11/08/black-butte-porter-v0-1.html"/>
+   <updated>2015-11-08T00:00:00-08:00</updated>
+   <id>/2015/11/08/black-butte-porter_v0.1</id>
+   <content type="html">&lt;p&gt;This is a clone of Black Butte porter from the &lt;a href=&quot;http://www.homebrewersassociation.org/homebrew-recipe/deschutes-black-butte-porter-clone/&quot;&gt;American Homebrewer&amp;#39;s Association&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Ingredients&lt;/h3&gt;
+
+&lt;h5&gt;Grains&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;9.0 lb (4.08 kg) Northwestern two-row pale malt&lt;/li&gt;
+&lt;li&gt;12.8 oz (363 g) chocolate wheat malt&lt;/li&gt;
+&lt;li&gt;8.0 oz (227 g) 80° L crystal malt&lt;/li&gt;
+&lt;li&gt;5.0 oz (142 g) dextrin malt
+&amp;lt;!-- + 10 lbs American 2-Row pale malt (original called for 9.25, I upped a bitto account for probably lower efficiency of extraction process I have)&lt;/li&gt;
+&lt;li&gt;12 oz. German Dark Munich malt &lt;/li&gt;
+&lt;li&gt;8 oz. 10oL American crystal malt&lt;/li&gt;
+&lt;li&gt;4 oz. 40oL American crystal malt --&amp;gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5&gt;Hop bill&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;0.5 oz (14 g) Galena pellet hops, 13% a.a. (90 min)&lt;/li&gt;
+&lt;li&gt;0.25 oz (7 g) Cascade pellet hops, 5.75% a.a. (15 min)&lt;/li&gt;
+&lt;li&gt;0.25 oz (7 g) Hallertauer pellet hops, 4.5% a.a. (5 min)
+&amp;lt;!-- + 1 oz Magnum (recipe had Horizon) (recipe said to do 29% less than 1 oz for all grain, but I like the hops)&lt;/li&gt;
+&lt;li&gt;0.5 oz Willamette&lt;/li&gt;
+&lt;li&gt;1.4 oz Cascade&lt;/li&gt;
+&lt;li&gt;0.6 oz Centennial --&amp;gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5&gt;Yeast&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;English ale yeast (White Labs WLP 002 or Wyeast 1968 London ESB)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Steps:&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Warmed up water in pot on stove to 153 degrees F. Then poured all malt in together into the cooler, and poured enough water on top of the malts to cover them.  I stirred occasionally and measured temperature. If it was too cold I put in some hot water.  After 90 min., vorlofted 3 times, sparged with hotter water (168 deg F) twice (each time resting for about 10 min.), and added back to pot each time. &lt;/li&gt;
+&lt;li&gt;Brought volume in pot up to about 5.5 gallons.&lt;/li&gt;
+&lt;li&gt;Add 
+
+&lt;ul&gt;
+&lt;li&gt;2 tsp. burton water salts&lt;/li&gt;
+&lt;li&gt;1 oz. Galena hops (recipe had 0.5 oz)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Boil for 75 min.&lt;/li&gt;
+&lt;li&gt;Add 
+
+&lt;ul&gt;
+&lt;li&gt;0.3 oz. Cascade hops (recipe had 0.25)&lt;/li&gt;
+&lt;li&gt;1 tsp. Irish moss&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Boil for 10 min.&lt;/li&gt;
+&lt;li&gt;Add
+
+&lt;ul&gt;
+&lt;li&gt;0.25 oz. Hallertauer hops&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Boil for 5 minutes&lt;/li&gt;
+&lt;li&gt;Remove pot from stove and cool down as fast as possible to temperature ideal for the yeast - I used the copper tubing I put in the boil earlier.&lt;/li&gt;
+&lt;li&gt;Transfer cooled down wort to primary fermenter&lt;/li&gt;
+&lt;li&gt;Put in yeast when temperature is right (~ 69 degrees F).&lt;/li&gt;
+&lt;li&gt;Just before bottling, boiled 1.25 c. DME, added to mix, and then bottled. &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Note: At 15 left to go put in the copper tubing apparatus to sterilize for the last 15 min. of boil (optional if you have one)&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>lagunitas-ipa clone v0.1</title>
-   <link href="/2015/03/15/lagunitas-ipa_v0.1/"/>
+   <link href="/2015/03/15/lagunitas-ipa-v0-1.html"/>
    <updated>2015-03-15T00:00:00-07:00</updated>
    <id>/2015/03/15/lagunitas-ipa_v0.1</id>
    <content type="html">&lt;p&gt;This is a clone of Lagunitas IPA from the book &lt;a href=&quot;http://www.amazon.com/CloneBrews-Homebrew-Recipes-Commercial-Beers/dp/1580170773&quot;&gt;CloneBrews: Homebrew Recipes for 200 Commercial Beers&lt;/a&gt;.&lt;/p&gt;
@@ -93,7 +170,7 @@
  
  <entry>
    <title>Leo's Oatmeal Pale Ale v0.1</title>
-   <link href="/2015/01/10/oatmeal-pale-ale_v0.1/"/>
+   <link href="/2015/01/10/oatmeal-pale-ale-v0-1.html"/>
    <updated>2015-01-10T00:00:00-08:00</updated>
    <id>/2015/01/10/oatmeal-pale-ale_v0.1</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;POST BREWING NOTES:&lt;/strong&gt; Crap, so i screwed the ABV up on this one. Not sure what went wrong - maybe didn&amp;#39;t grind up grains sufficiently at the brew shop, or didn&amp;#39;t mash long enough. Hmmmm...It was probably the fact that there was 3lbs crystal in the original recipe (link below), and brew shop suggested that was too much, so went down to 1.5 lbs. Should have upped the main grain by 1.5 lbs or more. So should be ~11 lb 2-row pale malt next time. &lt;/p&gt;
@@ -174,7 +251,7 @@
  
  <entry>
    <title>Brooklyn Pennant Ale '55 v0.3</title>
-   <link href="/recipe/2015/01/04/brooklyn-pennant-ale_v0.3/"/>
+   <link href="/recipe/2015/01/04/brooklyn-pennant-ale-v0-3.html"/>
    <updated>2015-01-04T00:00:00-08:00</updated>
    <id>/recipe/2015/01/04/brooklyn-pennant-ale_v0.3</id>
    <content type="html">&lt;p&gt;This is a clone of Brooklyn Pennant Ale pale ale from the book &lt;a href=&quot;http://www.amazon.com/CloneBrews-Homebrew-Recipes-Commercial-Beers/dp/1580170773&quot;&gt;CloneBrews: Homebrew Recipes for 150 Commercial Beers&lt;/a&gt;. &lt;/p&gt;
@@ -244,7 +321,7 @@
  
  <entry>
    <title>Brooklyn Pennant Ale '55 v0.2</title>
-   <link href="/recipe/2014/01/05/brooklyn-pennant-ale_v0.2/"/>
+   <link href="/recipe/2014/01/05/brooklyn-pennant-ale-v0-2.html"/>
    <updated>2014-01-05T00:00:00-08:00</updated>
    <id>/recipe/2014/01/05/brooklyn-pennant-ale_v0.2</id>
    <content type="html">&lt;p&gt;This is a clone of Brooklyn Pennant Ale pale ale from the book [CloneBrews: Homebrew Recipes for 150 Commercial Beers][book]. &lt;/p&gt;
@@ -310,7 +387,7 @@
  
  <entry>
    <title>Cascadian IPA</title>
-   <link href="/recipe/2013/06/16/cascadian-ipa/"/>
+   <link href="/recipe/2013/06/16/cascadian-ipa.html"/>
    <updated>2013-06-16T00:00:00-07:00</updated>
    <id>/recipe/2013/06/16/cascadian-ipa</id>
    <content type="html">&lt;p&gt;From &lt;a href=&quot;http://forum.northernbrewer.com/viewtopic.php?f=1&amp;amp;t=109879&quot;&gt;here&lt;/a&gt;. Original recipe called it a Cascadian Dark Ale.&lt;/p&gt;
@@ -397,7 +474,7 @@
  
  <entry>
    <title>Brooklyn Pennant Ale '55 v0.1</title>
-   <link href="/recipe/2013/06/13/brooklyn-pennant-ale_V0.1/"/>
+   <link href="/recipe/2013/06/13/brooklyn-pennant-ale-v0-1.html"/>
    <updated>2013-06-13T00:00:00-07:00</updated>
    <id>/recipe/2013/06/13/brooklyn-pennant-ale_V0.1</id>
    <content type="html">&lt;p&gt;This is a clone of Brooklyn Pennant Ale pale ale from the book &lt;a href=&quot;http://www.amazon.com/CloneBrews-Homebrew-Recipes-Commercial-Beers/dp/1580170773&quot;&gt;CloneBrews: Homebrew Recipes for 150 Commercial Beers&lt;/a&gt;. &lt;/p&gt;
@@ -469,7 +546,7 @@
  
  <entry>
    <title>Petrus Tripel</title>
-   <link href="/recipe/2013/05/27/petrus-tripel/"/>
+   <link href="/recipe/2013/05/27/petrus-tripel.html"/>
    <updated>2013-05-27T00:00:00-07:00</updated>
    <id>/recipe/2013/05/27/petrus-tripel</id>
    <content type="html">&lt;p&gt;This was a clone of Petrus Tripel from the book &lt;a href=&quot;http://www.amazon.com/CloneBrews-Homebrew-Recipes-Commercial-Beers/dp/1580170773&quot;&gt;CloneBrews: Homebrew Recipes for 150 Commercial Beers&lt;/a&gt;. &lt;/p&gt;
@@ -544,7 +621,7 @@
  
  <entry>
    <title>DogFish Head 60min IPA</title>
-   <link href="/recipe/2013/03/18/dogfishhead-60min/"/>
+   <link href="/recipe/2013/03/18/dogfishhead-60min.html"/>
    <updated>2013-03-18T00:00:00-07:00</updated>
    <id>/recipe/2013/03/18/dogfishhead-60min</id>
    <content type="html">&lt;p&gt;This was a clone of Dogfish Head&amp;#39;s 60 minute IPA from the book &lt;a href=&quot;http://www.amazon.com/CloneBrews-Homebrew-Recipes-Commercial-Beers/dp/1580170773&quot;&gt;CloneBrews: Homebrew Recipes for 150 Commercial Beers&lt;/a&gt;. &lt;/p&gt;
@@ -555,7 +632,7 @@
  
  <entry>
    <title>F.H. Steinbart IPA</title>
-   <link href="/recipe/2013/01/30/fhsteinbart-ipa/"/>
+   <link href="/recipe/2013/01/30/fhsteinbart-ipa.html"/>
    <updated>2013-01-30T00:00:00-08:00</updated>
    <id>/recipe/2013/01/30/fhsteinbart-ipa</id>
    <content type="html">&lt;h3&gt;Stock IPA recipe kit from F.H. Steinbart in Potland, OR&lt;/h3&gt;
