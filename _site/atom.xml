@@ -4,7 +4,7 @@
  <title>scott's beer recipes</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2015-11-08T12:48:39-08:00</updated>
+ <updated>2015-11-15T19:01:15-08:00</updated>
  <id></id>
  <author>
    <name>Scott Chamberlain</name>
@@ -31,7 +31,7 @@
 &lt;/ul&gt;
 
 &lt;!-- + 10 lbs American 2-Row pale malt (original called for 9.25, I upped a bitto account for probably lower efficiency of extraction process I have)
-+ 12 oz. German Dark Munich malt 
++ 12 oz. German Dark Munich malt
 + 8 oz. 10oL American crystal malt
 + 4 oz. 40oL American crystal malt --&gt;
 
@@ -51,22 +51,22 @@
 &lt;h5&gt;Yeast&lt;/h5&gt;
 
 &lt;ul&gt;
-&lt;li&gt;English ale yeast (White Labs WLP 002 or Wyeast 1968 London ESB)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.imperialyeast.com/yeast-strains/&quot;&gt;Imperial Yeast &lt;code&gt;A09 Pub&lt;/code&gt;&lt;/a&gt; (recipe had Wyeast 1968 London ESB)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3&gt;Steps:&lt;/h3&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Warmed up water in pot on stove to 153 degrees F. Then poured all malt in together into the cooler, and poured enough water on top of the malts to cover them.  I stirred occasionally and measured temperature. If it was too cold I put in some hot water.  After 90 min., vorlofted 3 times, sparged with hotter water (168 deg F) twice (each time resting for about 10 min.), and added back to pot each time. &lt;/li&gt;
+&lt;li&gt;Warmed up water in pot on stove to 153 degrees F. Then poured all malt in together into the cooler, and poured enough water on top of the malts to cover them.  I stirred occasionally and measured temperature. If it was too cold I put in some hot water.  After 60 min., vorlofted 3 times, sparged with hotter water (168 deg F) twice (each time resting for about 10 min.), and added back to pot each time&lt;/li&gt;
 &lt;li&gt;Brought volume in pot up to about 5.5 gallons.&lt;/li&gt;
-&lt;li&gt;Add 
+&lt;li&gt;Add
 
 &lt;ul&gt;
 &lt;li&gt;2 tsp. burton water salts&lt;/li&gt;
 &lt;li&gt;1 oz. Galena hops (recipe had 0.5 oz)&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Boil for 75 min.&lt;/li&gt;
-&lt;li&gt;Add 
+&lt;li&gt;Add
 
 &lt;ul&gt;
 &lt;li&gt;0.4 oz. Cascade hops (recipe had 0.25)&lt;/li&gt;
@@ -81,8 +81,8 @@
 &lt;li&gt;Boil for 5 minutes&lt;/li&gt;
 &lt;li&gt;Remove pot from stove and cool down as fast as possible to temperature ideal for the yeast - I used the copper tubing I put in the boil earlier.&lt;/li&gt;
 &lt;li&gt;Transfer cooled down wort to primary fermenter&lt;/li&gt;
-&lt;li&gt;Put in yeast when temperature is right (~ 69 degrees F).&lt;/li&gt;
-&lt;li&gt;Just before bottling, boiled 1.25 c. DME, added to mix, and then bottled. &lt;/li&gt;
+&lt;li&gt;Pitch yeast when temperature ~ 67 degrees F&lt;/li&gt;
+&lt;li&gt;Just before bottling, boiled 1.25 c. DME, added to mix, and then bottled.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;blockquote&gt;
@@ -104,7 +104,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;10 lbs American 2-Row pale malt (original called for 9.25, I upped a bitto account for probably lower efficiency of extraction process I have)&lt;/li&gt;
-&lt;li&gt;12 oz. German Dark Munich malt &lt;/li&gt;
+&lt;li&gt;12 oz. German Dark Munich malt&lt;/li&gt;
 &lt;li&gt;8 oz. 10oL American crystal malt&lt;/li&gt;
 &lt;li&gt;4 oz. 40oL American crystal malt&lt;/li&gt;
 &lt;/ul&gt;
@@ -121,16 +121,16 @@
 &lt;h3&gt;Steps:&lt;/h3&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Warmed up water in pot on stove to 151 degrees F. Then poured all malt in together into the cooler, and poured enough water on top of the malts to cover them.  I stirred occasionally and measured temperature. If it was too cold I put in some hot water.  After 90 min., vorlofted 3 times, sparged with hotter water (165 deg F) twice (each time resting for about 10 min.), and added back to pot each time. &lt;/li&gt;
+&lt;li&gt;Warmed up water in pot on stove to 151 degrees F. Then poured all malt in together into the cooler, and poured enough water on top of the malts to cover them.  I stirred occasionally and measured temperature. If it was too cold I put in some hot water.  After 90 min., vorlofted 3 times, sparged with hotter water (165 deg F) twice (each time resting for about 10 min.), and added back to pot each time.&lt;/li&gt;
 &lt;li&gt;Brought volume in pot up to about 5.5 gallons.&lt;/li&gt;
-&lt;li&gt;Add 
+&lt;li&gt;Add
 
 &lt;ul&gt;
 &lt;li&gt;2 tsp. burton water salts&lt;/li&gt;
 &lt;li&gt;1 oz. Magnum hops (recipe had Horizon)&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Boil for 45 min.&lt;/li&gt;
-&lt;li&gt;Add 
+&lt;li&gt;Add
 
 &lt;ul&gt;
 &lt;li&gt;0.5 oz. Willamette hops&lt;/li&gt;
@@ -161,7 +161,7 @@
 &lt;li&gt;0.25 oz. Cascade hops (was supposed to be 0.5, so put in .25 of Saaz)&lt;/li&gt;
 &lt;li&gt;0.25 oz. Centennial hops&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Just before bottling, boiled 1.25 c. DME, added to mix, and then bottled. &lt;/li&gt;
+&lt;li&gt;Just before bottling, boiled 1.25 c. DME, added to mix, and then bottled.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;blockquote&gt;

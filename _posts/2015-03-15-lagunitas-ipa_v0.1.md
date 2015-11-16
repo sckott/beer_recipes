@@ -10,7 +10,7 @@ gravity_one: 1.06
 gravity_two: 1.012
 datesecondferm: 2015-03-19
 datebottled: 2015-03-24
-tags: 
+tags:
 - ale
 - ipa
 - clone
@@ -24,7 +24,7 @@ This is a clone of Lagunitas IPA from the book [CloneBrews: Homebrew Recipes for
 ##### Grains
 
 + 10 lbs American 2-Row pale malt (original called for 9.25, I upped a bitto account for probably lower efficiency of extraction process I have)
-+ 12 oz. German Dark Munich malt 
++ 12 oz. German Dark Munich malt
 + 8 oz. 10oL American crystal malt
 + 4 oz. 40oL American crystal malt
 
@@ -37,13 +37,13 @@ This is a clone of Lagunitas IPA from the book [CloneBrews: Homebrew Recipes for
 
 ### Steps:
 
-1. Warmed up water in pot on stove to 151 degrees F. Then poured all malt in together into the cooler, and poured enough water on top of the malts to cover them.  I stirred occasionally and measured temperature. If it was too cold I put in some hot water.  After 90 min., vorlofted 3 times, sparged with hotter water (165 deg F) twice (each time resting for about 10 min.), and added back to pot each time. 
+1. Warmed up water in pot on stove to 151 degrees F. Then poured all malt in together into the cooler, and poured enough water on top of the malts to cover them.  I stirred occasionally and measured temperature. If it was too cold I put in some hot water.  After 90 min., vorlofted 3 times, sparged with hotter water (165 deg F) twice (each time resting for about 10 min.), and added back to pot each time.
 2. Brought volume in pot up to about 5.5 gallons.
-3. Add 
+3. Add
     + 2 tsp. burton water salts
     + 1 oz. Magnum hops (recipe had Horizon)
 4. Boil for 45 min.
-5. Add 
+5. Add
     + 0.5 oz. Willamette hops
     + 0.5 oz. Cascade hops
     + 1 tsp. Irish moss
@@ -62,7 +62,7 @@ This is a clone of Lagunitas IPA from the book [CloneBrews: Homebrew Recipes for
 16. At start of secondary fermentation after primary (7 days later), add
     + 0.25 oz. Cascade hops (was supposed to be 0.5, so put in .25 of Saaz)
     + 0.25 oz. Centennial hops
-17. Just before bottling, boiled 1.25 c. DME, added to mix, and then bottled. 
+17. Just before bottling, boiled 1.25 c. DME, added to mix, and then bottled.
 
 > Note: At 15 left to go put in the copper tubing apparatus to sterilize for the last 15 min. of boil (optional if you have one)
 
