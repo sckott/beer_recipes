@@ -12,7 +12,7 @@ title: Home
             </a>
           </h1>
           <span class="post-date">{{ post.date | date_to_string }}</span>
-          {{ post.content | remove_alerts | truncatewords:50 }}
+          <!-- {{ post.content | remove_alerts | truncatewords:50 }} -->
         </div>
   {% endfor %}
 </div>
@@ -33,4 +33,3 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
-

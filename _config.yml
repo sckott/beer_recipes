@@ -15,7 +15,7 @@ title:               scott's beer recipes
 tagline:             'yum'
 description:         'my beer recipes'
 baseurl:             /beer_recipes/
-paginate:            3
+paginate:            6
 exclude: 						['_posts/todo/']
 
 # About/contact
