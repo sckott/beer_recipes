@@ -20,7 +20,7 @@ tags:
 
 This is a clone of Brooklyn Pennant Ale pale ale from the book [CloneBrews: Homebrew Recipes for 150 Commercial Beers][book].
 
-This is `v0.4` of this clone. Made `v0.1` on [2013-05-27](http://recology.info/beer_recipes/2013-05-27-brooklyn-pennant-ale_V0.1.html), `v0.2` on [2014-01-05](http://recology.info/beer_recipes/2014/01/05/brooklyn-pennant-ale_v0.2/), and `v0.3` on [2015-01-05](http://recology.info/beer_recipes/2015/01/05/brooklyn-pennant-ale_v0.2/). In `v0.4` I'm going back to hops the original clone recipe called for: Fuggles and Willamette, Perle, German Hallertau, Cascade. And using a different yeast (see below).
+This is `v0.4` of this clone. Made `v0.1` on [2013-06-13](/beer_recipes/2013/06/13/brooklyn-pennant-ale-v0-1/), `v0.2` on [2014-01-05](/beer_recipes/2014/01/05/brooklyn-pennant-ale-v0-2/), and `v0.3` on [2015-01-05](/beer_recipes/2015/01/04/brooklyn-pennant-ale-v0-3/). In `v0.4` I'm going back to hops the original clone recipe called for: Fuggles and Willamette, Perle, German Hallertau, Cascade. And using a different yeast (see below).
 
 ### Ingredients
 

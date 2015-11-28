@@ -8,6 +8,8 @@ highlighter:         pygments
 # permalink:           pretty
 # relative_permalinks: true
 
+permalink: :year/:month/:day/:title/
+
 gems: [jekyll-paginate]
 
 # Setup
