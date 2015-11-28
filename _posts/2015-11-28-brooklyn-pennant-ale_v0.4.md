@@ -2,14 +2,14 @@
 name: brookly-pennant-ale
 layout: post
 title: Brooklyn Pennant Ale '55 v0.3
-date: 2015-01-04
+date: 2015-11-28
 author: Scott Chamberlain
-datemadeon: 2015-01-04
+datemadeon: 2015-11-28
 volume: 5
 gravity_one: 1.055
 gravity_two: 1.012
-datesecondferm: 2015-01-10
-datebottled: 2015-01-15
+datesecondferm: 2015-12-04
+datebottled: 2015-12-06
 categories:
 - recipe
 tags:
