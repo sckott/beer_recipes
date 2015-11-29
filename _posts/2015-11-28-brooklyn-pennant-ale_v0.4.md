@@ -1,7 +1,7 @@
 ---
 name: brookly-pennant-ale
 layout: post
-title: Brooklyn Pennant Ale '55 v0.3
+title: Brooklyn Pennant Ale '55 v0.4
 date: 2015-11-28
 author: Scott Chamberlain
 datemadeon: 2015-11-28
@@ -71,5 +71,7 @@ This is `v0.4` of this clone. Made `v0.1` on [2013-06-13](/beer_recipes/2013/06/
 11. Put in yeast when temperature is right (yeast, pitched yeast at 68-72 degrees F)
 12. On 2015-12-02 moved to secondary fermenter (bucket)
 13. Bottled on 2015-12-05
+
+> meant to put in burton salts but forgot, woops
 
 [book]: http://www.amazon.com/CloneBrews-Homebrew-Recipes-Commercial-Beers/dp/1580170773

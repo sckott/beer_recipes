@@ -4,7 +4,7 @@
  <title>scott's beer recipes</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2015-11-28T14:53:19-08:00</updated>
+ <updated>2015-11-28T17:26:21-08:00</updated>
  <id></id>
  <author>
    <name>Scott Chamberlain</name>
@@ -13,7 +13,7 @@
 
  
  <entry>
-   <title>Brooklyn Pennant Ale '55 v0.3</title>
+   <title>Brooklyn Pennant Ale '55 v0.4</title>
    <link href="/2015/11/28/brooklyn-pennant-ale-v0-4/"/>
    <updated>2015-11-28T00:00:00-08:00</updated>
    <id>/2015/11/28/brooklyn-pennant-ale_v0.4</id>
@@ -92,6 +92,10 @@
 &lt;li&gt;On 2015-12-02 moved to secondary fermenter (bucket)&lt;/li&gt;
 &lt;li&gt;Bottled on 2015-12-05&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;meant to put in burton salts but forgot, woops&lt;/p&gt;
+&lt;/blockquote&gt;
 </content>
  </entry>
  
