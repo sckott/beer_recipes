@@ -5,11 +5,11 @@ title: Brooklyn Pennant Ale '55 v0.4
 date: 2015-11-28
 author: Scott Chamberlain
 datemadeon: 2015-11-28
-volume: 5
-gravity_one: 1.055
-gravity_two: 1.012
-datesecondferm: 2015-12-04
-datebottled: 2015-12-06
+volume: 4.9
+gravity_one: 1.059
+gravity_two: 1.005
+datesecondferm: 2015-12-02
+datebottled: 2015-12-05
 categories:
 - recipe
 tags:
@@ -32,8 +32,8 @@ This is `v0.4` of this clone. Made `v0.1` on [2013-06-13](/beer_recipes/2013/06/
 
 ##### Hop bill
 
-+ 2 oz. Nugget (instead of Fuggles)
-+ 1.5 oz. Saaz (instead of Willamette)
++ 1 1/3 oz. Fuggles
++ 1 oz. Willamette
 + 1/3 oz. Perle
 + 1/3 oz. Hallertau
 + 1/3 oz. Cascade
@@ -65,12 +65,12 @@ This is `v0.4` of this clone. Made `v0.1` on [2013-06-13](/beer_recipes/2013/06/
 	+ 1/3 oz. Cascade hops
 	+ 1/3 oz. Fuggles hops
 8. Boil for 1 minute
-	+ Measure initial gravity at this point, should be 1.055 (if not matching, perhaps put in more sugar if number too low, or more water if number too high)
 9. Remove pot from stove and cool down as fast as possible to temperature ideal for the yeast - I used the copper tubing I put in the boil earlier.
-10. Transfer cooled down wort to primary fermenter (carboy)
-11. Put in yeast when temperature is right (yeast, pitched yeast at 68-72 degrees F)
-12. On 2015-12-02 moved to secondary fermenter (bucket)
-13. Bottled on 2015-12-05
+10. Measure initial gravity at this point
+11. Transfer cooled down wort to primary fermenter (bucket)
+12. Pitched yeast at 69 degrees F
+13. On 2015-12-02 moved to secondary fermenter (carboy)
+14. Bottled on 2015-12-05
 
 > meant to put in burton salts but forgot, woops
 
