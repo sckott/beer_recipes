@@ -35,10 +35,8 @@ This is `v0.1` of this clone.
 ##### Hop bill
 
 + 2.1 oz. Chinook
-+ 1.25 oz. Hallertau
-+ 1.5 oz. Crystal
-+ 1/3 oz. Hallertau
-+ 1/3 oz. Cascade
++ 1.25 oz. US Hallertau (called for German H.)
++ 1.25 oz. Crystal
 
 ##### Yeast
 
