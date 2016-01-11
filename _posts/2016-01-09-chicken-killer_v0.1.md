@@ -6,9 +6,9 @@ date: 2016-01-10
 author: Scott Chamberlain
 datemadeon: 2016-01-10
 volume: 5
-gravity_one: 1
+gravity_one: 1.091
 gravity_two: 1
-datesecondferm: 2016-01-10
+datesecondferm: 2016-01-16
 datebottled: 2016-01-10
 categories:
 - recipe
@@ -40,28 +40,31 @@ This is `v0.1` of this clone.
 
 ##### Yeast
 
-+ [Imperial Yeast xxx](http://www.imperialyeast.com/yeast-strains/) (recipe had Danstar Windsor ale yeast or Wyeast WLP099 super high gravity ale yeast)
++ [Imperial Yeast - `A07 Flagship`](http://www.imperialyeast.com/yeast-strains/) (recipe had Wyeast 1056)
+
+##### Boil
+
++ 3 hrs
 
 ##### Other ingredients
 
 + 1.5 lbs Belgian clear candi sugar
 + 1 tsp. Irish moss
 + 1.25 cups Muntons extra-light DME
-+ salts?
 
 ### Steps:
 
-1. I'm doing all grain, so I use a mash tun. Warmed up water in pot on stove to 151 degrees F. Then poured the whole three malts together into the cooler, and poured enough water on top of the malts to cover them.  I stirred occasionally and measured temperature. If it was too cold I put in some hot water.  After 90 min., vorlofted a bit, sparged with hotter water (160 deg F) a few times, and added back to pot.
-2. Brought volume in pot up to about 5 gallons. Bring to boil.
+1. I'm doing all grain, so I use a mash tun. Warmed up water in pot on stove to 151 degrees F. Then poured the whole three malts together into the cooler, and poured enough water on top of the malts to cover them.  I stirred occasionally and measured temperature. If it was too cold I put in some hot water.  After 90 min., vorlofted ~ 10 minutes, fly sparged with hotter water (170ish deg F), and added back to pot, ended up with about 6.5 gallons.
+2. Bring to boil. Boil for 1.5 hrs.
 3. Add
-	+ 2.1 oz. Chinook hops (bittering)
+	+ 2 oz. Chinook hops (bittering)
     + 1.5 lbs Belgian clear candi sugar
-4. Boil for 45 min
+4. Boil for 1 hr 15 min
 5. Add
 	+ 1 oz. US Hallertau (flavor)
 	+ 1/4 oz. Crystal (flavor)
 	+ 1 tbsp irish moss
-	+ (put in the copper tubing apparatus to sterilize for the last 15 min. of boil)
+	+ (put in the copper tubing to sterilize for the last 15 min. of boil)
 6. Boil for 14 minutes
 7. Add aroma hops
 	+ 1 oz. Crystal (aroma)
