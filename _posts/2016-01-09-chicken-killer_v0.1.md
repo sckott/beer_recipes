@@ -9,7 +9,7 @@ volume: 5
 gravity_one: 1.091
 gravity_two: 1
 datesecondferm: 2016-01-16
-datebottled: 2016-01-10
+datebottled: 2016-01-19
 categories:
 - recipe
 tags:
@@ -72,6 +72,9 @@ This is `v0.1` of this clone.
 9. Remove pot from stove and cool down as fast as possible to temperature ideal for the yeast - I used the copper tubing I put in the boil earlier.
 10. Measure initial gravity at this point
 11. Transfer cooled down wort to primary fermenter (bucket)
-12. Pitched yeast at ~67 degrees F
-13. On xxxx moved to secondary fermenter (carboy)
-14. Bottled on xxxx
+12. Pitched yeast at ~68 degrees F
+13. On 2016-01-16 moved to secondary fermenter (glass carboy) and added
+    + 0.4 oz Crystal hop pellets
+    + 0.4 oz US Hallertau hop pellets
+14. On 2016-01-17 added more yeast...
+15. On 2016-01-19 bottled
