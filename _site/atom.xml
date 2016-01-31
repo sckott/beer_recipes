@@ -4,7 +4,7 @@
  <title>scott's beer recipes</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2016-01-16T18:16:56-08:00</updated>
+ <updated>2016-01-30T15:58:07-08:00</updated>
  <id></id>
  <author>
    <name>Scott Chamberlain</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>Chicken Killer Barley Wine</title>
-   <link href="/2016/01/10/chicken-killer-v0-1/"/>
+   <link href="/2016/01/10/chicken-killer_v0.1/"/>
    <updated>2016-01-10T00:00:00-08:00</updated>
    <id>/2016/01/10/chicken-killer_v0.1</id>
    <content type="html">&lt;p&gt;This is a clone of &lt;a href=&quot;http://www.santafebrewing.com/our_beer/detail/23&quot;&gt;Chicken Killer Barley Wine ale&lt;/a&gt; from the book [CloneBrews: Homebrew Recipes for 150 Commercial Beers][book].&lt;/p&gt;
@@ -106,7 +106,7 @@
  
  <entry>
    <title>Brooklyn Pennant Ale '55 v0.4</title>
-   <link href="/2015/11/28/brooklyn-pennant-ale-v0-4/"/>
+   <link href="/2015/11/28/brooklyn-pennant-ale_v0.4/"/>
    <updated>2015-11-28T00:00:00-08:00</updated>
    <id>/2015/11/28/brooklyn-pennant-ale_v0.4</id>
    <content type="html">&lt;p&gt;This is a clone of Brooklyn Pennant Ale pale ale from the book &lt;a href=&quot;http://www.amazon.com/CloneBrews-Homebrew-Recipes-Commercial-Beers/dp/1580170773&quot;&gt;CloneBrews: Homebrew Recipes for 150 Commercial Beers&lt;/a&gt;.&lt;/p&gt;
@@ -190,7 +190,7 @@
  
  <entry>
    <title>black-butte-porter clone v0.1</title>
-   <link href="/2015/11/08/black-butte-porter-v0-1/"/>
+   <link href="/2015/11/08/black-butte-porter_v0.1/"/>
    <updated>2015-11-08T00:00:00-08:00</updated>
    <id>/2015/11/08/black-butte-porter_v0.1</id>
    <content type="html">&lt;p&gt;This is a clone of Black Butte porter from the &lt;a href=&quot;http://www.homebrewersassociation.org/homebrew-recipe/deschutes-black-butte-porter-clone/&quot;&gt;American Homebrewer&amp;#39;s Association&lt;/a&gt;.&lt;/p&gt;
@@ -269,7 +269,7 @@
  
  <entry>
    <title>lagunitas-ipa clone v0.1</title>
-   <link href="/2015/03/15/lagunitas-ipa-v0-1/"/>
+   <link href="/2015/03/15/lagunitas-ipa_v0.1/"/>
    <updated>2015-03-15T00:00:00-07:00</updated>
    <id>/2015/03/15/lagunitas-ipa_v0.1</id>
    <content type="html">&lt;p&gt;This is a clone of Lagunitas IPA from the book &lt;a href=&quot;http://www.amazon.com/CloneBrews-Homebrew-Recipes-Commercial-Beers/dp/1580170773&quot;&gt;CloneBrews: Homebrew Recipes for 200 Commercial Beers&lt;/a&gt;.&lt;/p&gt;
@@ -348,7 +348,7 @@
  
  <entry>
    <title>Leo's Oatmeal Pale Ale v0.1</title>
-   <link href="/2015/01/10/oatmeal-pale-ale-v0-1/"/>
+   <link href="/2015/01/10/oatmeal-pale-ale_v0.1/"/>
    <updated>2015-01-10T00:00:00-08:00</updated>
    <id>/2015/01/10/oatmeal-pale-ale_v0.1</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;POST BREWING NOTES:&lt;/strong&gt; Crap, so i screwed the ABV up on this one. Not sure what went wrong - maybe didn&amp;#39;t grind up grains sufficiently at the brew shop, or didn&amp;#39;t mash long enough. Hmmmm...It was probably the fact that there was 3lbs crystal in the original recipe (link below), and brew shop suggested that was too much, so went down to 1.5 lbs. Should have upped the main grain by 1.5 lbs or more. So should be ~11 lb 2-row pale malt next time. &lt;/p&gt;
@@ -429,7 +429,7 @@
  
  <entry>
    <title>Brooklyn Pennant Ale '55 v0.3</title>
-   <link href="/2015/01/04/brooklyn-pennant-ale-v0-3/"/>
+   <link href="/2015/01/04/brooklyn-pennant-ale_v0.3/"/>
    <updated>2015-01-04T00:00:00-08:00</updated>
    <id>/2015/01/04/brooklyn-pennant-ale_v0.3</id>
    <content type="html">&lt;p&gt;This is a clone of Brooklyn Pennant Ale pale ale from the book &lt;a href=&quot;http://www.amazon.com/CloneBrews-Homebrew-Recipes-Commercial-Beers/dp/1580170773&quot;&gt;CloneBrews: Homebrew Recipes for 150 Commercial Beers&lt;/a&gt;.&lt;/p&gt;
@@ -499,7 +499,7 @@
  
  <entry>
    <title>Brooklyn Pennant Ale '55 v0.2</title>
-   <link href="/2014/01/05/brooklyn-pennant-ale-v0-2/"/>
+   <link href="/2014/01/05/brooklyn-pennant-ale_v0.2/"/>
    <updated>2014-01-05T00:00:00-08:00</updated>
    <id>/2014/01/05/brooklyn-pennant-ale_v0.2</id>
    <content type="html">&lt;p&gt;This is a clone of Brooklyn Pennant Ale pale ale from the book [CloneBrews: Homebrew Recipes for 150 Commercial Beers][book]. &lt;/p&gt;
@@ -652,7 +652,7 @@
  
  <entry>
    <title>Brooklyn Pennant Ale '55 v0.1</title>
-   <link href="/2013/06/13/brooklyn-pennant-ale-v0-1/"/>
+   <link href="/2013/06/13/brooklyn-pennant-ale_V0.1/"/>
    <updated>2013-06-13T00:00:00-07:00</updated>
    <id>/2013/06/13/brooklyn-pennant-ale_V0.1</id>
    <content type="html">&lt;p&gt;This is a clone of Brooklyn Pennant Ale pale ale from the book &lt;a href=&quot;http://www.amazon.com/CloneBrews-Homebrew-Recipes-Commercial-Beers/dp/1580170773&quot;&gt;CloneBrews: Homebrew Recipes for 150 Commercial Beers&lt;/a&gt;. &lt;/p&gt;

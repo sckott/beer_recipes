@@ -7,7 +7,7 @@ author: Scott Chamberlain
 datemadeon: 2016-01-10
 volume: 5
 gravity_one: 1.091
-gravity_two: 1
+gravity_two: 1.010
 datesecondferm: 2016-01-16
 datebottled: 2016-01-19
 categories:
