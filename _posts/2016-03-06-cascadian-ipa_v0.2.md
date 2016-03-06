@@ -1,15 +1,15 @@
 ---
-name: cascadian-ipa
+name: cascadian-ipa-v2
 layout: post
 title: Cascadian IPA v0.2
-date: 2015-11-28
+date: 2016-03-06
 author: Scott Chamberlain
-datemadeon: 2015-11-28
+datemadeon: 2016-03-06
 volume: 5
 gravity_one: xxx
 gravity_two: xxx
-datesecondferm: 2015-12-04
-datebottled: 2015-12-28
+datesecondferm: xxx
+datebottled: xxx
 categories:
 - recipe
 tags:
@@ -23,21 +23,25 @@ From [here](http://forum.northernbrewer.com/viewtopic.php?f=1&t=109879). Origina
 
 This is version 2, for 1st version, see the [2013-06-16 post](http://recology.info/beer_recipes//recipe/2013/06/16/cascadian-ipa.html).
 
-### Ingredients
+## Ingredients
 
-##### Grains
+### Grains
 
-+ 11 lb American 2-Row (original called for 10, I upped by 1 lb. as heard grinder at store not too good)
++ 10.5 lb American 2-Row (original called for 10, I upped by 0.5 lb. as heard grinder at store not too good)
 + 2 lb Munich I
 + 1 lb Carafa III malt
 + 0.5 lb Crystal 120
 + 0.25 lb Crystal 60
 
-##### Hops
-+ 3 oz Columbus
-+ 0.5 oz Nugget
+### Hop bill
+
++ 3 oz Columbus (US Saaz instead?) (already got)
++ 2.5 oz Nugget (already got) (2 oz Chinook -> Nugget)
 + 2 oz Simcoe
-+ 2 oz Chinook
+
+### Other
+
+* yeast: probably pub, ask about using A01 House, canned 29 Dec '15
 
 ### Steps:
 
