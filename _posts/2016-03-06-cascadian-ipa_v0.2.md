@@ -5,8 +5,8 @@ title: Cascadian IPA v0.2
 date: 2016-03-06
 author: Scott Chamberlain
 datemadeon: 2016-03-06
-volume: 5
-gravity_one: xxx
+volume: 4.8
+gravity_one: 1.071
 gravity_two: xxx
 datesecondferm: xxx
 datebottled: xxx
@@ -19,7 +19,7 @@ tags:
 - recipe
 ---
 
-From [here](http://forum.northernbrewer.com/viewtopic.php?f=1&t=109879). Original recipe called it a Cascadian Dark Ale.
+From [here](http://forum.northernbrewer.com/t/cascadian-dark-ale-recipe-questions/12320/18). Original recipe called it a Cascadian Dark Ale.
 
 This is version 2, for 1st version, see the [2013-06-16 post](http://recology.info/beer_recipes//recipe/2013/06/16/cascadian-ipa.html).
 
@@ -27,7 +27,7 @@ This is version 2, for 1st version, see the [2013-06-16 post](http://recology.in
 
 ### Grains
 
-+ 10.5 lb American 2-Row (original called for 10, I upped by 0.5 lb. as heard grinder at store not too good)
++ 10.6 lb American 2-Row (original called for 10, I upped by 0.6 lb.)
 + 2 lb Munich I
 + 1 lb Carafa III malt
 + 0.5 lb Crystal 120
@@ -37,40 +37,48 @@ This is version 2, for 1st version, see the [2013-06-16 post](http://recology.in
 
 + 3 oz Columbus (US Saaz instead?) (already got)
 + 2.5 oz Nugget (already got) (2 oz Chinook -> Nugget)
-+ 2 oz Simcoe
++ 1.25 oz Perle (instead of Simcoe)
++ 0.75 oz Fuggles (instead of Simcoe)
 
 ### Other
 
-* yeast: probably pub, ask about using A01 House, canned 29 Dec '15
+* yeast: Imperial A01 House
+* 1 tsp. Irish moss
+
+### Boil
+
+* 75 minutes
 
 ### Steps:
 
-1. Warmed up water in pot on stove to 152 degrees F. Then poured all malt in together into the cooler, and poured enough water on top of the malts to cover them.  I stirred occasionally and measured temperature. If it was too cold I put in some hot water.  After 70 min., vorlofted 3 times, sparged with hotter water (165 deg F) twice (each time resting for about 10 min.), and added back to pot each time.
-2. Brought volume in pot up to about 5.2 gallons.
+1. I'm doing all grain, so I use a mash tun. Warmed up water in pot on stove to 151 degrees F. Then poured the whole three malts together into the cooler, and poured enough water on top of the malts to cover them.  I stirred occasionally and measured temperature. If it was too cold I put in some hot water.  After 90 min., vorlofted ~ 10 minutes, fly sparged with hotter water (170ish deg F), and added back to pot, ended up with about 6.5 gallons.
 3. Add
-	+ 0.25 oz. Columbus hops
-	+ 0.25 oz. Simcoe hops
+	+ 0.25 oz. US Saaz hops
+	+ 0.25 oz. Perle hops
 3. Bring to boil.
 3. Add
 	+ 0.5 oz. Nuggett hops
-4. Boil for 30 min.
+	+ 2 tsp. burton water salts
+4. Boil for 45 min.
 5. Add
-	+ 0.25 oz. Columbus hops
+	+ 0.25 oz. US Saaz hops
 6. Boil for 20 min.
-7. At 15 left to go put in the copper tubing apparatus to sterilize for the last 15 min. of boil (optional if you have one)
-8. After 20 min, add
-	+ 1 oz. Chinook hops
-	+ 1 oz. Columbus hops
+8. After 20 min (at 10 min. remaining), add
+	+ 1 tbsp irish moss
+	+ 1 oz. Nugget hops
+	+ 1 oz. US Saaz hops
+	+ put in copper tubing apparatus to sterilize
 9. Boil for 5 minutes
 10. Add
-	+ 0.75 oz. Simcoe hops
+	+ 0.75 oz. Fuggles hops
 11. Boil for 5 min.
 12. Add
-	+ 1 oz. Simcoe hops
+	+ 1 oz. Perle hops
 12. Remove pot from stove and cool down as fast as possible to temperature ideal for the yeast - I used the copper tubing I put in the boil earlier.
 13. Transfer cooled down wort to primary fermenter
-14. Put in yeast when temperature is right (Wyeast 1272 - American Ale II yeast, pitch yeast at 65 degrees F).
+	* measure gravity (OG)
+14. Pitched yeast at ~64 degrees F
 15. At start of secondary fermentation after primary (7 days later), add
-	+ 1 oz. Chinook hops
-	+ 1.5 oz. Columbus hops
-16. Just before bottling, boiled 3/4 c. corn sugar, added to mix, and then bottled.
+	+ 1 oz. Nugget hops
+	+ 1.5 oz. US Saaz hops
+16. Just before bottling, used 1.5 c. light DME

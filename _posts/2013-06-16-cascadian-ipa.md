@@ -19,7 +19,7 @@ tags:
 - recipe
 ---
 
-From [here](http://forum.northernbrewer.com/viewtopic.php?f=1&t=109879). Original recipe called it a Cascadian Dark Ale.
+From [here](http://forum.northernbrewer.com/t/cascadian-dark-ale-recipe-questions/12320/18). Original recipe called it a Cascadian Dark Ale.
 
 ### Ingredients
 
