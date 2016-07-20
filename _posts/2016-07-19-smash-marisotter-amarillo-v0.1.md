@@ -1,26 +1,23 @@
 ---
-name: smash-v1
+name: smash-marisotter-amarillo-v1
 layout: post
-title: Smash v0.1
-date: 2016-07-18
+title: Smash Maris Otter Amarillo v0.1
+date: 2016-07-19
 author: Scott Chamberlain
-datemadeon: 2016-07-18
+datemadeon: 2016-07-19
 volume: 5
-gravity_one: 999
-gravity_two: 999
+gravity_one: 1.05
+gravity_two: 0
 datesecondferm: 2016-07-23
 datebottled: 2016-07-25
 categories:
 - recipe
 tags:
-- ale
-- IPA
+- pale ale
 - recipe
+- smash
+- amarillo
 ---
-
-recipe from [xxxx](xxxx)
-
-This is version 1.
 
 ## Ingredients
 
@@ -59,6 +56,6 @@ This is version 1.
 12. Remove pot from stove and cool down as fast as possible to temperature ideal for the yeast - I used the copper tubing I put in the boil earlier.
 13. Transfer cooled down wort to primary fermenter
 	* measure gravity (OG)
-14. Pitched yeast at ~64 degrees F
+14. Pitched yeast at ~70 degrees F
 15. At start of secondary fermentation after primary (4 days later), add 2 oz. hops
 16. Just before bottling, used 4 oz. light DME

@@ -4,7 +4,7 @@
  <title>scott's beer recipes</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2016-07-18T21:38:39-07:00</updated>
+ <updated>2016-07-19T23:05:34-07:00</updated>
  <id></id>
  <author>
    <name>Scott Chamberlain</name>
@@ -13,15 +13,11 @@
 
  
  <entry>
-   <title>Smash v0.1</title>
-   <link href="/2016/07/18/smash_v0.1/"/>
-   <updated>2016-07-18T00:00:00-07:00</updated>
-   <id>/2016/07/18/smash_v0.1</id>
-   <content type="html">&lt;p&gt;recipe from &lt;a href=&quot;xxxx&quot;&gt;xxxx&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This is version 1.&lt;/p&gt;
-
-&lt;h2&gt;Ingredients&lt;/h2&gt;
+   <title>Smash Maris Otter Amarillo v0.1</title>
+   <link href="/2016/07/19/smash-marisotter-amarillo-v0.1/"/>
+   <updated>2016-07-19T00:00:00-07:00</updated>
+   <id>/2016/07/19/smash-marisotter-amarillo-v0.1</id>
+   <content type="html">&lt;h2&gt;Ingredients&lt;/h2&gt;
 
 &lt;h3&gt;Grains&lt;/h3&gt;
 
@@ -73,7 +69,7 @@
 &lt;ul&gt;
 &lt;li&gt;measure gravity (OG)&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Pitched yeast at ~64 degrees F&lt;/li&gt;
+&lt;li&gt;Pitched yeast at ~70 degrees F&lt;/li&gt;
 &lt;li&gt;At start of secondary fermentation after primary (4 days later), add 2 oz. hops&lt;/li&gt;
 &lt;li&gt;Just before bottling, used 4 oz. light DME&lt;/li&gt;
 &lt;/ol&gt;
