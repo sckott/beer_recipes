@@ -8,8 +8,8 @@ datemadeon: 2016-07-19
 volume: 5
 gravity_one: 1.05
 gravity_two: 0
-datesecondferm: 2016-07-23
-datebottled: 2016-07-25
+datesecondferm: 2016-07-24
+datebottled: 2016-07-26
 categories:
 - recipe
 tags:
@@ -57,5 +57,5 @@ tags:
 13. Transfer cooled down wort to primary fermenter
 	* measure gravity (OG)
 14. Pitched yeast at ~70 degrees F
-15. At start of secondary fermentation after primary (4 days later), add 2 oz. hops
-16. Just before bottling, used 4 oz. light DME
+15. At start of secondary fermentation (kept in same carbouy) on 2016-07-24, add 2 oz. hops
+16. Just before bottling, used 4 oz. light DME dissolved in 1.5 c. water
