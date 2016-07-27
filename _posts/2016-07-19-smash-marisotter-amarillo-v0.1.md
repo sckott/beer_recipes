@@ -7,9 +7,9 @@ author: Scott Chamberlain
 datemadeon: 2016-07-19
 volume: 5
 gravity_one: 1.05
-gravity_two: 0
+gravity_two: 1.01
 datesecondferm: 2016-07-24
-datebottled: 2016-07-26
+datebottled: 2016-07-27
 categories:
 - recipe
 tags:
