@@ -4,13 +4,72 @@
  <title>scott's beer recipes</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2016-07-27T07:18:53-07:00</updated>
+ <updated>2016-10-02T11:48:27-07:00</updated>
  <id></id>
  <author>
    <name>Scott Chamberlain</name>
    <email>myrmecocystus@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Smash 2 Row Saaz v0.1</title>
+   <link href="/2016/10/02/smash-tworow-saaz-v0.1/"/>
+   <updated>2016-10-02T00:00:00-07:00</updated>
+   <id>/2016/10/02/smash-tworow-saaz-v0.1</id>
+   <content type="html">&lt;p&gt;Recipe from &lt;a href=&quot;http://www.themadfermentationist.com/2009/11/hoppy-french-saison.html&quot;&gt;http://www.themadfermentationist.com/2009/11/hoppy-french-saison.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Target OG: 1.051
+Target FG: 1.002&lt;/p&gt;
+
+&lt;h2&gt;Ingredients&lt;/h2&gt;
+
+&lt;h3&gt;Grains&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;9.25 lbs. Belgian Pilsener&lt;/li&gt;
+&lt;li&gt;1.25 lbs. German Wheat Malt&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Hop bill&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;5.5 oz Saaz&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Other&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;WYeast 3711 French Saison&lt;/li&gt;
+&lt;li&gt;Whirlfloc&lt;/li&gt;
+&lt;li&gt;Yeast nutrient&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Mash&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;80 minutes at 148 degrees&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Boil&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;90 minutes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Steps:&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Boil&lt;/li&gt;
+&lt;li&gt;2.25 oz. Saaz @ 60 min.&lt;/li&gt;
+&lt;li&gt;0.50 Whirlfloc &amp;amp;&amp;amp; 0.25 tsp Yeast Nutrient @ 15 min.&lt;/li&gt;
+&lt;li&gt;1.75 oz. Saaz @ 10 min.&lt;/li&gt;
+&lt;li&gt;1.50 oz. Saaz @ 0 min.&lt;/li&gt;
+&lt;li&gt;cool down&lt;/li&gt;
+&lt;li&gt;pitch yeast at ~ xx&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Smash Maris Otter Amarillo v0.1</title>
