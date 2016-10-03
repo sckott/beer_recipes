@@ -6,7 +6,7 @@ date: 2016-10-02
 author: Scott Chamberlain
 datemadeon: 2016-10-02
 volume: 5
-gravity_one: xxx
+gravity_one: 1.049
 gravity_two: xxx
 datesecondferm: xxx
 datebottled: xxx
@@ -25,6 +25,8 @@ Recipe from <http://www.themadfermentationist.com/2009/11/hoppy-french-saison.ht
 Target OG: 1.051
 Target FG: 1.002
 
+brewed with andy
+
 ## Ingredients
 
 ### Grains
@@ -39,12 +41,13 @@ Target FG: 1.002
 ### Other
 
 * WYeast 3711 French Saison
-* Whirlfloc
+* irish moss
 * Yeast nutrient
 
 ### Mash
 
 * 80 minutes at 148 degrees
+* fly sparged with ~170 degree water
 
 ### Boil
 
@@ -54,8 +57,9 @@ Target FG: 1.002
 
 1. Boil
 2. 2.25 oz. Saaz @ 60 min.
-3. 0.50 Whirlfloc && 0.25 tsp Yeast Nutrient @ 15 min.
+3. 0.25 tsp Yeast Nutrient @ 15 min & 1 tblsp irish moss
 4. 1.75 oz. Saaz @ 10 min.
 5. 1.50 oz. Saaz @ 0 min.
 6. cool down
-7. pitch yeast at ~ xx
+7. Into plastic fermentation bucket
+8. pitch yeast at ~ 68 degrees
