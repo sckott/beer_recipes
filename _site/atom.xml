@@ -4,7 +4,7 @@
  <title>scott's beer recipes</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2016-10-02T20:27:26-07:00</updated>
+ <updated>2016-10-08T13:49:13-07:00</updated>
  <id></id>
  <author>
    <name>Scott Chamberlain</name>
@@ -13,10 +13,10 @@
 
  
  <entry>
-   <title>Smash 2 Row Saaz v0.1</title>
-   <link href="/2016/10/02/smash-tworow-saaz-v0.1/"/>
+   <title>Saison (Smash 2 Row and Saaz) v0.1</title>
+   <link href="/2016/10/02/saison-smash-v1/"/>
    <updated>2016-10-02T00:00:00-07:00</updated>
-   <id>/2016/10/02/smash-tworow-saaz-v0.1</id>
+   <id>/2016/10/02/saison-smash-v1</id>
    <content type="html">&lt;p&gt;Recipe from &lt;a href=&quot;http://www.themadfermentationist.com/2009/11/hoppy-french-saison.html&quot;&gt;http://www.themadfermentationist.com/2009/11/hoppy-french-saison.html&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Target OG: 1.051
@@ -71,6 +71,7 @@ Target FG: 1.002&lt;/p&gt;
 &lt;li&gt;cool down&lt;/li&gt;
 &lt;li&gt;Into plastic fermentation bucket&lt;/li&gt;
 &lt;li&gt;pitch yeast at ~ 68 degrees&lt;/li&gt;
+&lt;li&gt;bottled with 4 oz. light DME dissolved in 1.5 c. water&lt;/li&gt;
 &lt;/ol&gt;
 </content>
  </entry>

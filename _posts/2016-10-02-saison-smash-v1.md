@@ -1,15 +1,15 @@
 ---
-name: smash-tworow-saaz-v1
+name: saison-smash-v1
 layout: post
-title: Smash 2 Row Saaz v0.1
+title: Saison (Smash 2 Row and Saaz) v0.1
 date: 2016-10-02
 author: Scott Chamberlain
 datemadeon: 2016-10-02
 volume: 5
 gravity_one: 1.049
-gravity_two: xxx
-datesecondferm: xxx
-datebottled: xxx
+gravity_two: 1.000
+datesecondferm: NA
+datebottled: 2016-10-08
 categories:
 - recipe
 tags:
@@ -63,3 +63,4 @@ brewed with andy
 6. cool down
 7. Into plastic fermentation bucket
 8. pitch yeast at ~ 68 degrees
+9. bottled with 4 oz. light DME dissolved in 1.5 c. water
